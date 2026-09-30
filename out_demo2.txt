@@ -1,0 +1,11 @@
+--- code A: f1 = 1 + x*y,  f2 = y^2 + x*y + x^2 + x^3
+  id                 Prop4.13=pass  accepted, w_c = c0: 1  c1: 1
+  iota_y (y->y^-1)   Prop4.13=pass  REJECTED: component 1: no unit solution
+  iota_x (x->x^-1)   Prop4.13=pass  accepted, w_c = c0: 1 + u0 + u0^2  c1: 1 + w2*u0^2 + u0^3
+  iota (both)        Prop4.13=pass  REJECTED: component 1: no unit solution
+--- code A': f1 = 1 + x*y,  f2 = y^2 + x + x*y^2 + x^2 + x^3*y + x^3*y^2
+  id                 Prop4.13=pass  accepted, w_c = c0: 1  c1: 1
+  iota_y (y->y^-1)   Prop4.13=pass  REJECTED: component 1: no unit solution
+  iota_x (x->x^-1)   Prop4.13=pass  REJECTED: component 0: no unit solution
+  iota (both)        Prop4.13=pass  REJECTED: component 0: no unit solution
+find_symmetries (scalar-twist tier) returns 2 symmetries: ['id', 'iota_x (x->x^-1)']

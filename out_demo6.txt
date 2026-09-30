@@ -1,0 +1,16 @@
+--- forward-example code:  f1 = 1 + x*y,  f2 = y^2 + x*y + x^2 + x^3
+    k = 2,  |L_X| = 2,  |L_Z| = 2
+    L_X[0] = (P, Q) with P = 1 + y + y^2   Q = 1 + y + y^2 + x^2 + x^2*y + x^2*y^2
+    L_X[1] = (P, Q) with P = 1 + y + y^2 + x + x*y + x*y^2   Q = 0
+    action of iota_x on L_X (+) L_Z, X-block: [[1, 0], [0, 1]]
+    gate: I
+    X-block minus identity: rank 0, square is zero: True
+--- inverse-example code:  f1 = 1 + x^2 + x^2*y + x^2*y^2,  f2 = x + x^3
+    k = 4,  |L_X| = 4,  |L_Z| = 4
+    L_X[0] = (P, Q) with P = 1 + y + y^2   Q = x + x*y + x*y^2
+    L_X[1] = (P, Q) with P = 1 + y + y^2 + x + x*y + x*y^2   Q = 1 + y + y^2 + x + x*y + x*y^2
+    L_X[2] = (P, Q) with P = 1 + y + y^2 + x^2 + x^2*y + x^2*y^2   Q = 0
+    L_X[3] = (P, Q) with P = 1 + y + y^2 + x + x*y + x*y^2 + x^2 + x^2*y + x^2*y^2 + x^3 + x^3*y + x^3*y^2   Q = 0
+    action of iota_x on L_X (+) L_Z, X-block: [[1, 0, 0, 0], [0, 1, 0, 0], [1, 0, 1, 0], [0, 1, 0, 1]]
+    gate: k=4: no name table; order=2, qubit-permutation=False
+    X-block minus identity: rank 2, square is zero: True
