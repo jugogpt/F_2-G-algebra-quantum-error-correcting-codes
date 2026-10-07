@@ -1,0 +1,15 @@
+{
+ "code": "[[144,12,12]], L=(12,6), f1=x^3+y+y^2, f2=y^3+x+x^2",
+ "provenance": "scratchpad g7.py, g8.py, gw.py, gc.py; matrices in runs/gross_*.pkl (not shipped)",
+ "all_exact_schreier_sims": true,
+ "rows": [
+  {"generators": "13 class symmetries (semilinear + depth-one)", "order": 8},
+  {"generators": "+ translations x, y", "order": 144, "clusters": [[4,12],[8,48]]},
+  {"generators": "+ 2 of 72 fold-S gates", "order": 460800, "clusters": [[4,120],[8,7680]]},
+  {"generators": "+ all 72 fold-S gates (36 distinct logical actions)", "order": 460800, "clusters": [[4,120],[8,7680]], "full_clifford": false},
+  {"generators": "wide class restricted to 13 narrow layers + delta=0 layers (30 symmetries, 15 non-semilinear), no translations", "order": 24, "clusters": [[4,4],[8,24]]},
+  {"generators": "wide + translations", "order": 144, "clusters": [[4,12],[8,48]]},
+  {"generators": "wide + translations + 72 fold-S (51 distinct generators)", "order": 460800, "full_clifford": false}
+ ],
+ "sp_orders": {"4 qubits": "47377612800", "8 qubits": "59980383884075203672726385914533642240000"}
+}
