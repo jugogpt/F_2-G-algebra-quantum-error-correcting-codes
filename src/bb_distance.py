@@ -1,20 +1,4 @@
-"""Exact minimum-distance computation for kB codes via a per-logical ILP, generalizing Pryadko's AB-reduction script.
-
-Two changes from the univariate GB script this is built from:
-
-1. The AB gcd-reduction is dropped. That trick pulls a common factor f out of f1=f*p, f2=f*q via
-   gcd(a,b,x^ell-1) in the PID F2[x]/(x^ell-1); it only makes sense when R_L is a principal ideal
-   ring, i.e. when at most one l_i is even (Theorem 2.4). For two or more even l_i, R_L has no
-   single-generator ideals, so there is no ring-theoretic analogue of that gcd. Dropping it costs
-   nothing but speed: Hx, Hz are built directly from f1, f2 with rho_matrix (reusing
-   bb_script_b._mult_matrix), which is always correct, just not AB-minimized.
-
-2. The cyclic symmetry-breaking constraint v[0] + v[D] >= 1 generalizes verbatim, with D = |G| in
-   place of ell. Every monomial g in G is a symmetry of every code on R_L (Theta = g*I4 is always
-   physical, since bar(g) = g^{-1} for a group element, so g*bar(g) = 1 trivially satisfies the
-   symplectic condition). G acts regularly on each block's D positions, so the same shifting
-   argument as the univariate case applies: any nonzero codeword can be rotated so that block-L or
-   block-R position 0 is set, with no loss of generality on the minimum weight.
+"""Minimum-distance computation for kB codes via a per-logical ILP, generalizing Pryadko's AB-reduction script.
 """
 from __future__ import annotations
 import csv, itertools, random, time
