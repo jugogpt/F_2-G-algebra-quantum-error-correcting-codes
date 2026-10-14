@@ -1,0 +1,52 @@
+ring,n,k,f1,f2,d,symmetry_class,n_generators,logical_group_order,verdict,commutant_dim,same_as_example5,seconds
+Z3xZ3,18,4,1 + y,1 + x + x^2,2,narrow,54,20160,not_full:exact_order,,False,14
+Z3xZ3,18,4,1 + y,1 + x + x^2*y,3,narrow,64,1290240,not_full:exact_order,,False,14
+Z3xZ3,18,4,1 + y + y^2,1 + y + x,2,narrow,54,20160,not_full:exact_order,,False,13
+Z3xZ3,18,4,1 + y + x,1 + y + x,2,narrow,646,737280,not_full:exact_order,,False,125
+Z3xZ3,18,4,1 + y + x,1 + y + x^2*y,4,narrow,68,47377612800,full,,True,17
+Z3xZ3,18,4,1 + y + y^2,1 + y + x + x*y,2,narrow,206,20160,not_full:exact_order,,False,38
+Z3xZ3,18,4,1 + y + x,1 + y + x*y + x*y^2,3,narrow,126,1290240,not_full:exact_order,,False,25
+Z4xZ4,32,6,1 + y,1 + x + x^2 + x^3*y,4,wide,28,768,not_full:exact_order,,,122
+Z4xZ4,32,6,1 + y,1 + x + x^2 + x^3*y^2,4,wide,70,12288,not_full:exact_order,,,126
+Z4xZ4,32,6,1 + y,1 + x + x^2*y + x^3*y,4,wide,36,1536,not_full:exact_order,,,124
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y + y^2 + x^2*y,4,wide,22,6144,not_full:exact_order,,,147
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y + x + x*y^3,4,wide,36,1536,not_full:exact_order,,,159
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y + x + x^3*y,4,wide,12,384,not_full:exact_order,,,134
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y + x*y + x^2*y^3,4,wide,16,384,not_full:exact_order,,,133
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y + x^2*y^2 + x^3,4,wide,30,6144,not_full:exact_order,,,134
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y^2 + x + x^3,4,wide,38,12288,not_full:exact_order,,,167
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y^2 + x*y + x^2,4,wide,28,768,not_full:exact_order,,,137
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y^2 + x^2 + x^3*y^3,4,wide,28,768,not_full:exact_order,,,145
+Z4xZ4,32,6,1 + y + y^2 + x,1 + x + x^2*y^3 + x^3*y,4,wide,36,1536,not_full:exact_order,,,198
+Z4xZ4,32,6,1 + y + y^2 + x^2,1 + y + x + x*y,4,wide,36,1536,not_full:exact_order,,,199
+Z4xZ4,32,6,1 + y + y^2 + x^2,1 + x + x^2 + x^3*y^2,4,wide,70,12288,not_full:exact_order,,,208
+Z4xZ4,32,6,1 + y + y^2 + x^2*y,1 + y + x + x^2*y^2,4,wide,36,1536,not_full:exact_order,,,201
+Z4xZ4,32,6,1 + y + x + x*y,1 + y + x*y^2 + x^2*y,4,wide,12,384,not_full:exact_order,,,273
+Z3xZ6,36,6,1 + y + y^2 + y^4,1 + y + x + x*y^2,6,wide,9,360,not_full:exact_order,,,87
+Z3xZ6,36,6,1 + y + y^3 + x,1 + y + x + x*y^2,6,wide,9,360,not_full:exact_order,,,85
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x^3*y^5,9,narrow,49,3072,not_full:nilradical_certificate,,,469
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x^5*y^3,9,narrow,47,384,not_full:nilradical_certificate,,,469
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x^5*y^5,9,narrow,47,384,not_full:nilradical_certificate,,,470
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x*y^2 + x^3*y^5,9,narrow,47,384,not_full:nilradical_certificate,,,475
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x*y^2 + x^5*y,9,narrow,47,384,not_full:nilradical_certificate,,,314
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^2*y + x^3*y^5,9,narrow,47,384,not_full:nilradical_certificate,,,310
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^2*y + x^5*y^3,9,narrow,49,3072,not_full:nilradical_certificate,,,304
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^2*y^3 + x^5*y,9,narrow,49,3072,not_full:nilradical_certificate,,,300
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x*y + x^2*y^3 + x^3*y^2,9,narrow,47,384,not_full:nilradical_certificate,,,294
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^4*y + x^5*y^5,9,narrow,47,384,not_full:nilradical_certificate,,,300
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x*y + x^2*y^3 + x^5*y^2,9,narrow,47,384,not_full:nilradical_certificate,,,294
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x*y + x^5*y^4,10,narrow,47,384,not_full:nilradical_certificate,,,299
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x*y^2 + x^5*y^3,10,narrow,49,384,not_full:nilradical_certificate,,,310
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x + x^4*y^5,10,narrow,61,184320,not_full:exact_order,,,174
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x*y + x^4*y^2,10,narrow,47,360,not_full:exact_order,,,149
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x*y^2 + x^4*y,10,narrow,61,184320,not_full:exact_order,,,174
+Z5xZ5,50,8,1 + x^2*y + x^3*y^3 + x^4*y^3,1 + y^4 + x*y^2 + x*y^3 + x*y^4,5,narrow,30,,not_full:commutant_certificate,16,False,132
+Z5xZ5,50,8,1 + y^2 + x^2*y^2 + x^3,1 + x^2 + x^2*y^3 + x^2*y^4 + x^3*y^2,5,narrow,30,,not_full:commutant_certificate,16,False,127
+Z5xZ5,50,8,1 + y + y^2 + x*y + x^3*y^3,1 + x*y^2 + x*y^3 + x^3*y^3,4,narrow,33,,not_full:commutant_certificate,4,False,130
+Z5xZ5,50,8,1 + y + x^2 + x^3*y,1 + y^4 + x + x^2 + x^3*y^3,5,narrow,30,,undecided,,False,127
+Z5xZ5,50,8,1 + x^2*y^3 + x^4*y^2 + x^4*y^3,1 + y^2 + x^2 + x^2*y^2 + x^3,5,narrow,30,,undecided,,False,134
+Z5xZ5,50,8,1 + y^3 + x^3*y + x^3*y^3 + x^3*y^4,1 + x^2*y^3 + x^3*y^4 + x^4*y^3,5,narrow,30,,undecided,,False,134
+Z5xZ5,50,8,1 + y^2 + x*y^2 + x^3*y^3,1 + x*y^4 + x^2*y^2 + x^4*y^2 + x^4*y^4,5,narrow,30,,undecided,,False,138
+Z5xZ5,50,8,1 + x^2*y^3 + x^3 + x^4*y^4,1 + x^2*y + x^2*y^2 + x^3*y^3 + x^3*y^4,5,narrow,30,,undecided,,False,129
+Z5xZ5,50,8,1 + y + x*y + x*y^2,1 + x^3 + x^4 + x^4*y^2 + x^4*y^3,4,narrow,35,,undecided,,False,141
+Z5xZ5,50,8,1 + y + x*y + x*y^3,1 + x*y^4 + x^2*y^4 + x^3 + x^4*y^3,5,narrow,30,,undecided,,False,130

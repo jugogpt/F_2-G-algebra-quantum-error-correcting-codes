@@ -1,0 +1,4 @@
+L,f1,f2,n,k,check_weight,status,d,dX,dZ,d_ge,exact,merit,beats_gross,beats_two_gross,design_syms,group_order,group_status,clusters,full_clifford,seconds,module_key
+"(3, 3)",1 + y,1 + y,18,6,4,rejected_distance,2,,,,True,,,,,,,,,0.3,6d4a7ddda73656bd
+"(3, 3)",1 + y,1 + y + x + x*y,18,6,6,evaluated,3,3,3,,True,3.0,False,False,0,3,exact,1+1+2+2,False,1.2,5c4eaa7da2844c5f
+"(3, 3)",1 + y + x + x*y,1 + y + x + x*y^2,18,6,8,evaluated,3,3,3,,True,3.0,False,False,0,3,exact,1+1+2+2,False,1.2,7052bf7adce8be41

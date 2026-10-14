@@ -1,0 +1,6 @@
+numpy>=1.26
+scipy>=1.11
+sympy>=1.12
+galois>=0.3.8
+pytest>=7
+pandas>=2.0

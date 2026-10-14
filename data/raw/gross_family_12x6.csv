@@ -1,0 +1,6 @@
+L,f1,f2,n,k,check_weight,status,d,dX,dZ,d_ge,exact,merit,beats_gross,beats_two_gross,design_syms,group_order,group_status,clusters,full_clifford,seconds,module_key
+"(12, 6)",y + y^2 + x^3,y^3 + x + x^2,144,12,6,screen_unresolved,,,,,,,,,,,,,,1086.8,c6f940556f723d61
+"(12, 6)",y + y^2 + x^3,y^3 + x + x^8,144,12,6,rejected_distance,8,,,,True,,,,,,,,,5.7,34484df898ff46ea
+"(12, 6)",y + y^2 + x^3,y^3 + x^2 + x^7,144,12,6,screen_unresolved,,,,,,,,,,,,,,485.0,0bcc6f71df24e930
+"(12, 6)",y + y^2 + x^3,y^3 + x^4 + x^5,144,12,6,rejected_distance,8,,,,True,,,,,,,,,5.8,cdd1c1620dd31141
+"(12, 6)",y + y^2 + x^3,y^3 + x^4 + x^11,144,12,6,rejected_distance,6,,,,True,,,,,,,,,68.0,bdf9015261ec8c1c

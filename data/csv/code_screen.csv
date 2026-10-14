@@ -1,0 +1,1530 @@
+ring,n,k,f1,f2,check_weight,outcome,d,d_status,kd2_over_n,beats_gross,beats_two_gross,n_symmetry_gens,logical_group_order,group_status,acts_as_full_Sp,class_id,source
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^2 + x^3,8,below_target_d,2,upper_bound,,,,,,,,096711ea8693a625,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^2 + x^4,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,3cd68fa5c8d1d749,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^2 + x^5,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,0d92cc6ab2144a0b,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^2 + x^6,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,b43e2b0a93250c29,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^2 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,025e38b80ad37aef,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^2 + x^8,8,below_target_d,2,upper_bound,,,,,,,,2e5ac08b8a0d97ad,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^3 + x^4,8,below_target_d,3,upper_bound,,,,,,,,d3fad882cf079401,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^3 + x^5,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,e6f5f66dbd29a461,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^3 + x^6,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,0b3c88ee7ae1ad87,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^3 + x^7,8,below_target_d,3,upper_bound,,,,,,,,b1ddd30185a5f8d8,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^3 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,3917df61771afb4c,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^4 + x^5,8,below_target_d,3,upper_bound,,,,,,,,2e0acf7826fc3796,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^4 + x^6,8,below_target_d,3,upper_bound,,,,,,,,0f805f29e916d005,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^4 + x^7,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,7f3b9833bc232a7a,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^4 + x^8,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,03eff01fcca7663d,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,954401fd5c2dbd6f,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^5 + x^7,8,evaluated,5,exact,2.778,False,False,535,720,exact,True,a59d6c559a273ba5,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^5 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,d8cc9c6dd0e192e6,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,85045175206bba74,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^6 + x^8,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,684ebd0c92ae2115,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x + x^7 + x^8,8,below_target_d,2,upper_bound,,,,,,,,5620b172d66e8322,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^3 + x^4,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,608efded4cd09747,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^3 + x^5,8,below_target_d,3,upper_bound,,,,,,,,7b92303fde2288c7,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^3 + x^6,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,dd4606e34d1e1149,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^3 + x^7,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,121f649e0f7d7fd1,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^3 + x^8,8,below_target_d,3,upper_bound,,,,,,,,cabd787235099917,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^4 + x^5,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,03030c852e00e8b0,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^4 + x^6,8,below_target_d,3,upper_bound,,,,,,,,2738623572d96b86,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^4 + x^7,8,below_target_d,3,upper_bound,,,,,,,,a9a9186db9c854ae,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^4 + x^8,8,evaluated,5,exact,2.778,False,False,535,720,exact,True,271877749272384c,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,a88e9f86bd7ac1e9,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,fa92dc2233cb0af1,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^5 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,475710552c3f3412,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^6 + x^7,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,327c11d714161a69,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,6af6d56a099fa689,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^2 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,3678a7c908bbb44d,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^3 + x^4 + x^5,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,b1b9ac147811cf53,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^3 + x^4 + x^6,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,891a8dcab506fac9,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^3 + x^4 + x^7,8,below_target_d,3,upper_bound,,,,,,,,9fde70ad64f5e90a,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^3 + x^4 + x^8,8,below_target_d,3,upper_bound,,,,,,,,b6d7cb807859202e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^3 + x^5 + x^6,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,cf60ef4b565650d7,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^3 + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,fe062b65d0cb174c,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^3 + x^5 + x^8,8,below_target_d,3,upper_bound,,,,,,,,8af17b20847daf48,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^3 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,8a61cbadd6b9bd2e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^3 + x^6 + x^8,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,82ef8808df1ce2f7,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^3 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,e1cbeb0ebcf8022a,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^4 + x^5 + x^6,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,d51284d251acbb8e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^4 + x^5 + x^7,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,1dc671b4abc1ce94,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^4 + x^5 + x^8,8,below_target_d,3,upper_bound,,,,,,,,f5f57fff621f011b,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^4 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,42969e91ac9de431,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^4 + x^6 + x^8,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,52cfc51d1ba3c97f,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^4 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,f48f4a5e9a922b7c,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^5 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,41116f851c2e6c3c,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^5 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,7174427e24ec4827,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^5 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,fe56b903af7eed36,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,1 + x^6 + x^7 + x^8,8,below_target_d,2,upper_bound,,,,,,,,b8ade6f19657d92e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^3 + x^4,8,below_target_d,2,upper_bound,,,,,,,,49e84ea6100b97cf,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^3 + x^5,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,f7dd014424d86786,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^3 + x^6,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,e391d3b3b2fb31f6,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^3 + x^7,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,9c776d185684ce10,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^3 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,25e486272dc16f76,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^4 + x^5,8,below_target_d,3,upper_bound,,,,,,,,376ed829538118e6,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^4 + x^6,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,75598bcc1ccd5dfa,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^4 + x^7,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,53eda05c6563b63f,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^4 + x^8,8,below_target_d,3,upper_bound,,,,,,,,56a1014347ec2489,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,dc64416ab779d8d2,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,ce7d38b4dd477397,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^5 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,15647db3fc2bbcad,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,9ea5811dbb99c298,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^6 + x^8,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,f39a469efc0575b8,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^2 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,daa9691287a2b8f3,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^3 + x^4 + x^5,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,01ca42f7df09c836,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^3 + x^4 + x^6,8,below_target_d,3,upper_bound,,,,,,,,b23fe10024f07326,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^3 + x^4 + x^7,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,74ce9a13f751735f,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^3 + x^4 + x^8,8,evaluated,5,exact,2.778,False,False,535,720,exact,True,a88269d2c701b464,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^3 + x^5 + x^6,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,f5b5808772b9985a,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^3 + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,d219a2d17ad85def,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^3 + x^5 + x^8,8,below_target_d,3,upper_bound,,,,,,,,ee643a29bd590a87,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^3 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,6f7de12cd57bdcf9,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^3 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,f6f080e90fb7dd18,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^3 + x^7 + x^8,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,9e738e1ec834a6cb,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^4 + x^5 + x^6,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,902c92a3a7f7c73d,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^4 + x^5 + x^7,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,840d6c9574ac3617,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^4 + x^5 + x^8,8,below_target_d,3,upper_bound,,,,,,,,238c352a98cfc9c9,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^4 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,f3ec57efd0cfea5b,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^4 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,b1f5ac7d74487490,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^4 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,fcc65f894a50bec3,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^5 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,2afa0494c84c0204,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^5 + x^6 + x^8,8,evaluated,5,exact,2.778,False,False,373,720,exact,True,c27bf062d78525c2,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^5 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,4c9367415e8926d6,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x + x^6 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,191490e5b0a544da,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^3 + x^4 + x^5,8,below_target_d,2,upper_bound,,,,,,,,0a5f146e68cf26f2,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^3 + x^4 + x^6,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,328d51df4990ed6f,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^3 + x^4 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,eee9b45584794eb6,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^3 + x^4 + x^8,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,2234223a358117d6,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^3 + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,d3a6b1bd5d9abdfa,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^3 + x^5 + x^7,8,evaluated,5,exact,2.778,False,False,535,720,exact,True,8d97f323721b97f5,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^3 + x^5 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,3f83aac4a5336d12,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^3 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,8bf81224910f8be8,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^3 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,919cf2ce1897f1d1,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^3 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,0b81cf42b9ff54f1,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^4 + x^5 + x^6,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,2ae8b3b29d6e0858,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^4 + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,74cf6093dd6d4f09,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^4 + x^5 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,c3c8cf990755b4e7,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^4 + x^6 + x^7,8,evaluated,5,exact,2.778,False,False,373,720,exact,True,cf6501123f3beb6f,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^4 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,70fc1fd4ba315466,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^4 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,4f1ce5b7875d5a52,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^5 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,2adab802ef2963b4,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^5 + x^6 + x^8,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,254673e4fad49640,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^5 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,2f99b800aca28b36,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^2 + x^6 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,1381365f5998d88d,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^3 + x^4 + x^5 + x^6,8,below_target_d,2,upper_bound,,,,,,,,2f93f424d0380f41,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^3 + x^4 + x^5 + x^7,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,c6a1d6105c9e3748,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^3 + x^4 + x^5 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,6b4db365b3edb658,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^3 + x^4 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,3eb30a9b63c86f0b,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^3 + x^4 + x^6 + x^8,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,1b9d3279f6b60de2,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^3 + x^4 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,84fa8656116a4848,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^3 + x^5 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,4bfd1d555f943fc3,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^3 + x^5 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,9b985450571c080b,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^3 + x^5 + x^7 + x^8,8,evaluated,5,exact,2.778,False,False,143,720,exact,True,404d17fd2f0476bd,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^3 + x^6 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,b8058019942e22a9,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^4 + x^5 + x^6 + x^7,8,below_target_d,2,upper_bound,,,,,,,,56bad05b734dab15,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^4 + x^5 + x^6 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,aa055c415a3866ec,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^4 + x^5 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,00acbbc96d72c8db,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^4 + x^6 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,54e4ec4ef870145a,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^3,x^5 + x^6 + x^7 + x^8,8,below_target_d,2,upper_bound,,,,,,,,244e4f3f9e8d82f8,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^2 + x^3,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,cf34d4c0ff496e0f,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^2 + x^5,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,dfe229594af513f3,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^2 + x^6,8,below_target_d,3,upper_bound,,,,,,,,11794da4cf034727,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^2 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,21d8a53721ea18e9,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^3 + x^4,8,below_target_d,3,upper_bound,,,,,,,,bb7540dc21bfc62c,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^3 + x^5,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,77354054c3c7e80f,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^3 + x^7,8,below_target_d,3,upper_bound,,,,,,,,d0da858e5101a5a8,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^4 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,e0f3e14bef008aae,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,34841f7bd12317b0,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^5 + x^8,8,below_target_d,3,upper_bound,,,,,,,,defed38732988ca5,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,7cd022a25f0af957,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,4f42515cb296d2c6,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^2 + x^3 + x^5,8,below_target_d,3,upper_bound,,,,,,,,2df0bdb431d7585c,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^2 + x^3 + x^7,8,below_target_d,3,upper_bound,,,,,,,,b0605f09661e29a2,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^2 + x^3 + x^8,8,below_target_d,3,upper_bound,,,,,,,,a33b1526accdbe85,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^2 + x^4 + x^5,8,below_target_d,3,upper_bound,,,,,,,,49b56cd2819bd7c8,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^2 + x^4 + x^6,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,f9cbb09b8135333e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^2 + x^4 + x^7,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,c09db9d254bbba00,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^2 + x^4 + x^8,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,6fb163e8832a8bff,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^2 + x^5 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,af33d8cafb4ff8b9,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^2 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,7ccce632d54992e0,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^2 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,1fab7c6f3e8762e6,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^3 + x^4 + x^5,8,below_target_d,3,upper_bound,,,,,,,,926c68ffa0eea2a6,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^3 + x^5 + x^7,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,a274800780827e69,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^3 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,0a7f2fd95fe6ed7e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^4 + x^5 + x^6,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,f65daf5c0022354f,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^4 + x^5 + x^7,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,fd51501569fafeba,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^4 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,671b306dc51234f1,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^4 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,facbdc7fc54a7b37,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^4 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,6652402fcd82410e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^5 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,7268010b5cb7bde7,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,1 + x^6 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,3aee7ea55f61cf5f,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^2 + x^3 + x^4,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,d91f8ce6857b8115,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^2 + x^3 + x^6,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,1b87481ceb42f173,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^2 + x^3 + x^7,8,below_target_d,3,upper_bound,,,,,,,,656fb60d64946cfb,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^2 + x^4 + x^5,8,below_target_d,3,upper_bound,,,,,,,,27d0a6dd678d8763,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^2 + x^4 + x^6,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,efe02f83dac88b9a,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^2 + x^4 + x^8,8,below_target_d,3,upper_bound,,,,,,,,dee93f13374f48b7,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^2 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,ff2888791419027e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^2 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,fd1a2bcd525d5277,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^3 + x^4 + x^6,8,below_target_d,3,upper_bound,,,,,,,,45cf733e8c418699,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^3 + x^4 + x^8,8,below_target_d,3,upper_bound,,,,,,,,ec5a1e9ea279155e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^3 + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,3540cd1fef9be51d,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^3 + x^5 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,9a3db2d14d8eba3d,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^3 + x^5 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,3624c0d459a02e23,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^3 + x^6 + x^8,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,6e78b7a1c6d47898,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^3 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,4bca3136a238324d,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^4 + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,62fd1743e3094528,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^4 + x^6 + x^8,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,ec5147ebf01f5e08,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^5 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,6efc98eca7ea54dd,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^5 + x^6 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,eefb81e4ff10ea92,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x + x^5 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,8037c5ccd0140de3,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^2 + x^3 + x^4 + x^5,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,384aaff94ee85d5e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^2 + x^3 + x^4 + x^7,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,614aa1906e0ee2fb,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^2 + x^3 + x^4 + x^8,8,below_target_d,3,upper_bound,,,,,,,,eb480372a2c9c25a,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^2 + x^3 + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,9785280153a3d667,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^2 + x^3 + x^5 + x^7,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,a00bfbd67d2caafc,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^2 + x^4 + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,595b51fce8595ca7,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^2 + x^4 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,bcade4ee1f01668e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^2 + x^4 + x^6 + x^8,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,4765b7ffe093efc4,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^2 + x^5 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,46a0904393ce650a,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^2 + x^6 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,f3e669b283c1b877,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^3 + x^4 + x^5 + x^6,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,f4247ca12fb7b551,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^3 + x^4 + x^5 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,cd5ce2cac58255c6,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^3 + x^4 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,a693499d89ff8468,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^3 + x^4 + x^6 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,a268802a38d18126,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^3 + x^5 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,24c012d6c075d1e0,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^3 + x^5 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,3ee442c601246d15,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^3 + x^6 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,3ed677d4e0309089,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^4 + x^5 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,6be1bf1e7e643053,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^4 + x^5 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,6df1e8bdc81286c2,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^4,x^5 + x^6 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,91bddf58bef96ffc,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x + x^2 + x^4,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,6216ce43fa449a53,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x + x^2 + x^7,8,below_target_d,3,upper_bound,,,,,,,,48e3dc577cbb103a,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x + x^3 + x^4,8,below_target_d,3,upper_bound,,,,,,,,4268f044a3af124a,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x + x^3 + x^5,8,below_target_d,3,upper_bound,,,,,,,,dd3382d40213f02e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x + x^3 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,ec91c068b504e980,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x + x^4 + x^5,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,400ff1f16028b765,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x + x^5 + x^6,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,0242aacdce637715,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,e6c51f03cc3f845f,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,7f99f44f3e5c0ae7,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x^2 + x^3 + x^4,8,below_target_d,3,upper_bound,,,,,,,,f21625347cf406ab,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x^2 + x^3 + x^8,8,below_target_d,3,upper_bound,,,,,,,,804c59a347ed1902,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x^2 + x^4 + x^8,8,below_target_d,3,upper_bound,,,,,,,,a0a4609500fec28c,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x^2 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,c4c7dd172f8cd2a5,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x^2 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,5e4faee0caad3d4b,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x^3 + x^4 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,5603bcb3ebd1652e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x^4 + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,0f79526a51472dce,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x^4 + x^5 + x^8,8,evaluated,4,exact,1.778,False,False,19,48,exact,False,ba8de5064f0d1f19,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x^5 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,d389321a1898170a,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x^5 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,23484e4b1ab81f96,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,1 + x^5 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,ad04d23085f32111,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x + x^2 + x^3 + x^5,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,ef9d40cbeda48c90,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x + x^2 + x^3 + x^8,8,below_target_d,3,upper_bound,,,,,,,,6a7e75ecd27e0b82,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x + x^2 + x^4 + x^5,8,below_target_d,3,upper_bound,,,,,,,,8153f6afb78e728e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x + x^2 + x^4 + x^6,8,below_target_d,3,upper_bound,,,,,,,,0196eea3f9418ac3,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x + x^2 + x^5 + x^6,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,38aa9e4eacc516b9,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x + x^2 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,22,48,exact,False,7085f58bd02df3d8,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x + x^2 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,cd779b56423bef11,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x + x^3 + x^4 + x^5,8,below_target_d,3,upper_bound,,,,,,,,5a586d2372ed4c80,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x + x^3 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,16ce92dad15e20dd,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x + x^5 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,af0b893fd6f276af,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x + x^6 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,b11637d85bc3f697,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^2 + x^3 + x^4 + x^6,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,593193af821deba0,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^2 + x^3 + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,07ea4d9e7ae6593e,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^2 + x^3 + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,8f94e4d9ccf5770d,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^2 + x^3 + x^6 + x^7,8,evaluated,4,exact,1.778,False,False,21,720,exact,True,d4647932e9e25810,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^2 + x^3 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,36d02a957a5fcc5d,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^2 + x^4 + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,d6599d9573f6975c,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^3 + x^4 + x^5 + x^7,8,evaluated,4,exact,1.778,False,False,19,720,exact,True,e701e1eee82350a6,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^3 + x^4 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,02ed23f634016d46,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^3 + x^4 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,d7ab458c14e13208,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^3 + x^4 + x^7 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,ce9d076037517ae2,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^3 + x^5 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,a421068410be3d4d,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^4 + x^5 + x^6 + x^8,8,evaluated,4,exact,1.778,False,False,17,48,exact,False,1095c9768e596a92,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^4 + x^5 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,080ce9077f5ba3a9,fs_k2_9.csv
+Z9,18,2,1 + x + x^2 + x^5,x^4 + x^6 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,b2168583b23724f2,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^2 + x^3,8,below_target_d,3,upper_bound,,,,,,,,d0eeae5a7f4d1823,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^2 + x^4,8,below_target_d,3,upper_bound,,,,,,,,ec1eb02207ba13ca,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^2 + x^5,8,below_target_d,3,upper_bound,,,,,,,,e95863f5d51d82d4,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^2 + x^6,8,below_target_d,3,upper_bound,,,,,,,,b33fe2dd856ccab4,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^2 + x^7,8,below_target_d,3,upper_bound,,,,,,,,2989980e1a5ee51c,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^2 + x^8,8,below_target_d,3,upper_bound,,,,,,,,6e571b347e663e39,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^3 + x^5,8,below_target_d,3,upper_bound,,,,,,,,78bd525213f5a117,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^3 + x^6,8,below_target_d,3,upper_bound,,,,,,,,a4fa8c7e8e915f30,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^3 + x^8,8,below_target_d,3,upper_bound,,,,,,,,e486423aab76c6b0,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^4 + x^5,8,below_target_d,3,upper_bound,,,,,,,,80484221d3323457,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^4 + x^7,8,below_target_d,3,upper_bound,,,,,,,,45fd4be0b503c9ad,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^4 + x^8,8,below_target_d,3,upper_bound,,,,,,,,8d84233be9c68ba8,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,7b249c402f1d6c52,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,d1c5d2e1ea0aa1b9,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^5 + x^8,8,below_target_d,3,upper_bound,,,,,,,,af9477fcd668bd5d,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,fcdc561e100e7ee6,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,3fe3113046851659,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^2 + x^3 + x^4,8,below_target_d,3,upper_bound,,,,,,,,aa5fd613d1118a2f,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^2 + x^3 + x^6,8,below_target_d,3,upper_bound,,,,,,,,6308c4e9b2e57f0c,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^2 + x^3 + x^7,8,below_target_d,3,upper_bound,,,,,,,,1fc7813fd7194804,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^2 + x^4 + x^6,8,below_target_d,3,upper_bound,,,,,,,,85f06bcd35054445,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^2 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,286312ba7847a324,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^3 + x^4 + x^5,8,below_target_d,3,upper_bound,,,,,,,,e62aa0ce10df924d,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^3 + x^4 + x^6,8,below_target_d,3,upper_bound,,,,,,,,995814b919e4551d,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^3 + x^4 + x^8,8,below_target_d,3,upper_bound,,,,,,,,4852fb6831c01234,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^3 + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,9fc4eb342e1971a8,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^3 + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,f2d90e6282dbb73d,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^3 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,8a06b58ac2546a0d,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^3 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,1485fecde67cef23,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^3 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,b7124411f6051241,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^4 + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,2ce973f5651640da,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^4 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,5e75cd573c809ac1,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^5 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,3f53cb28c93affd2,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,1 + x^6 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,153433a21dad2b8e,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,x + x^3 + x^4 + x^7,8,below_target_d,3,upper_bound,,,,,,,,dce584a47c7b696d,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^4,x + x^4 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,13ec6fc4dea806d0,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x + x^2 + x^3,8,below_target_d,3,upper_bound,,,,,,,,e8366ae5a1efddcc,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x + x^2 + x^4,8,below_target_d,3,upper_bound,,,,,,,,ccd306eb6b824d10,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x + x^2 + x^7,8,below_target_d,3,upper_bound,,,,,,,,6eb756fc74ffa5d8,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x + x^2 + x^8,8,below_target_d,3,upper_bound,,,,,,,,65f3580e5ff9fdcc,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x + x^3 + x^5,8,below_target_d,3,upper_bound,,,,,,,,e54cfd56ff10f2e7,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x + x^3 + x^8,8,below_target_d,3,upper_bound,,,,,,,,a64b74e30a482e56,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x + x^4 + x^5,8,below_target_d,3,upper_bound,,,,,,,,ca596da94303140e,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x + x^5 + x^6,8,below_target_d,3,upper_bound,,,,,,,,7df756192990b7a3,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x + x^5 + x^7,8,below_target_d,3,upper_bound,,,,,,,,5c9e8b259328f608,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,6d766e5d47fa6b73,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,7bd09d33f23dd523,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x^2 + x^3 + x^4,8,below_target_d,3,upper_bound,,,,,,,,d5510933c18c049a,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x^2 + x^3 + x^7,8,below_target_d,3,upper_bound,,,,,,,,5967dc8e7e2c28df,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x^2 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,4e410bfaba92c687,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x^3 + x^4 + x^8,8,below_target_d,3,upper_bound,,,,,,,,1fdd62c883fdcb53,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x^4 + x^6 + x^8,8,below_target_d,3,upper_bound,,,,,,,,eb2b17a156acb63e,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x^5 + x^6 + x^7,8,below_target_d,3,upper_bound,,,,,,,,1f6dc9d4868b40a3,fs_k2_9.csv
+Z9,18,2,1 + x + x^3 + x^7,1 + x^6 + x^7 + x^8,8,below_target_d,3,upper_bound,,,,,,,,c5e48a70991ee4ca,fs_k2_9.csv
+Z9xZ9,162,12,1 + y + y^2,1 + y + x^3,6,below_target_d,6,upper_bound,,,,,,,,a73ac340f407d367,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y + y^2,1 + y^2 + x^3,6,below_target_d,8,upper_bound,,,,,,,,e6d607864ff53425,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y + y^2,1 + y^4 + x^3,6,below_target_d,8,upper_bound,,,,,,,,d0c5a728682b35d1,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y^3 + y^6,y + x + x^4,6,below_target_d,2,upper_bound,,,,,,,,c4325a619f22d6f0,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y^3 + y^6,1 + y^3 + x,6,below_target_d,2,upper_bound,,,,,,,,76c32d03d8dea038,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y^3 + x,1 + y^3 + x,6,below_target_d,2,upper_bound,,,,,,,,86d0c2ef3b26d523,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y^3 + x,1 + y^3 + x^4,6,below_target_d,8,upper_bound,,,,,,,,5ce4ab097561eec2,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y^3 + x,y^3 + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,5dffed64d2ff4cf6,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y^3 + x,y^3 + x^3 + x^7,6,below_target_d,6,upper_bound,,,,,,,,ba173db69bdebb0b,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y^3 + x,1 + y^6 + x^2,6,below_target_d,4,upper_bound,,,,,,,,821a5b324e0c8006,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y^3 + x,1 + y^6 + x^8,6,below_target_d,4,upper_bound,,,,,,,,ea899fe3a2013367,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y^3 + x,y^6 + x^2 + x^3,6,below_target_d,8,upper_bound,,,,,,,,efceb158111916b0,gross_family_9x9.csv
+Z9xZ9,162,12,1 + y^3 + x,y^6 + x^2 + x^6,6,below_target_d,8,upper_bound,,,,,,,,e7bad093fcdb58b6,gross_family_9x9.csv
+Z9xZ9,162,12,y + y^4 + x,1 + y^3 + x^6,6,below_target_d,6,upper_bound,,,,,,,,75457c6bc1784e6b,gross_family_9x9.csv
+Z9xZ9,162,12,y + y^4 + x,1 + y^6 + x^3,6,below_target_d,6,upper_bound,,,,,,,,173cab77c0965896,gross_family_9x9.csv
+Z9xZ9,162,8,1 + y + y^2,1 + x + x^2,6,below_target_d,6,upper_bound,,,,,,,,7662d291267add55,gross_family_9x9.csv
+Z9xZ9,162,8,1 + y + y^2,y^3 + x + x^2,6,below_target_d,12,upper_bound,,,,,,,,1ef4c89bab70eceb,gross_family_9x9.csv
+Z9xZ9,162,8,y + y^2 + x^3,y^3 + x + x^2,6,below_target_d,14,upper_bound,,,,,,,,72dc9056fb625f92,gross_family_9x9.csv
+Z9xZ9,162,24,1 + y + y^2,1 + x^3 + x^6,6,below_target_d,2,upper_bound,,,,,,,,04bdd4e105069188,gross_family_9x9.csv
+Z9xZ9,162,24,1 + y + y^2,y^3 + x^3 + x^6,6,below_target_d,6,upper_bound,,,,,,,,6ab5a4ed860ce892,gross_family_9x9.csv
+Z10xZ6,120,16,1 + y + y^2,y + x^2 + x^8,6,below_target_d,6,upper_bound,,,,,,,,ae950a4240c933c3,gross_family_10x6.csv
+Z10xZ6,120,16,1 + y + y^2,y^2 + x^2 + x^8,6,below_target_d,8,upper_bound,,,,,,,,c1b6c90d6b1fda88,gross_family_10x6.csv
+Z10xZ6,120,16,1 + y^2 + y^4,y + x + x^4,6,below_target_d,2,upper_bound,,,,,,,,fee1901ef77d8f0f,gross_family_10x6.csv
+Z10xZ6,120,16,1 + y^2 + y^4,y + x + x^9,6,below_target_d,2,upper_bound,,,,,,,,2429c92ee669bc95,gross_family_10x6.csv
+Z10xZ6,120,16,1 + y^2 + y^4,y^2 + x + x^4,6,below_target_d,2,upper_bound,,,,,,,,a625f56a70739267,gross_family_10x6.csv
+Z10xZ6,120,16,y + y^2 + x^5,y^2 + x^2 + x^8,6,below_target_d,8,upper_bound,,,,,,,,7f3f0e7091f8a9e4,gross_family_10x6.csv
+Z10xZ6,120,16,y^2 + y^4 + x^5,y^2 + x + x^4,6,below_target_d,4,upper_bound,,,,,,,,23b7e870fc03a844,gross_family_10x6.csv
+Z10xZ6,120,8,1 + y + y^2,y + x + x^4,6,below_target_d,12,upper_bound,,,,,,,,1911c9df9f4bcb5f,gross_family_10x6.csv
+Z10xZ6,120,8,1 + y + y^2,y + x + x^9,6,below_target_d,12,upper_bound,,,,,,,,4e48a03536823fc3,gross_family_10x6.csv
+Z10xZ6,120,8,1 + y + y^2,y^2 + x + x^4,6,below_target_d,12,upper_bound,,,,,,,,8f5f90d26ddd57b0,gross_family_10x6.csv
+Z10xZ6,120,8,y + y^2 + x^5,y + x + x^4,6,below_target_d,10,upper_bound,,,,,,,,74f64db7465d3af2,gross_family_10x6.csv
+Z10xZ6,120,8,y + y^2 + x^5,y + x + x^9,6,below_target_d,10,upper_bound,,,,,,,,a05bc71b0e0a01e9,gross_family_10x6.csv
+Z10xZ6,120,8,y + y^2 + x^5,y^2 + x + x^4,6,below_target_d,6,upper_bound,,,,,,,,cab187668ee2919e,gross_family_10x6.csv
+Z10xZ6,120,8,y^2 + y^4 + x^5,y + x + x^4,6,below_target_d,12,upper_bound,,,,,,,,e6e03b4e06de7988,gross_family_10x6.csv
+Z12xZ6,144,12,y + y^2 + x^3,y^3 + x + x^8,6,below_target_d,8,upper_bound,,,,,,,,34484df898ff46ea,gross_family_12x6_v2.csv
+Z12xZ6,144,12,y + y^2 + x^3,y^3 + x^4 + x^11,6,below_target_d,6,upper_bound,,,,,,,,bdf9015261ec8c1c,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + y^2,1 + x^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,64de5afc8b4b567c,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + y^2,1 + y + x^4,6,below_target_d,4,upper_bound,,,,,,,,831f8679be87fcfc,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + y^2,1 + y^2 + x^4,6,below_target_d,6,upper_bound,,,,,,,,9604c4c066072c56,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + y^2,y^3 + x^2 + x^4,6,below_target_d,6,upper_bound,,,,,,,,25a01badbb4354a2,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + y^2,y^3 + x^2 + x^10,6,below_target_d,4,upper_bound,,,,,,,,57936ab38d6459b2,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + y^4,1 + x + x^2,6,below_target_d,2,upper_bound,,,,,,,,5fb4dc0f2b381037,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + y^4,1 + x + x^5,6,below_target_d,2,upper_bound,,,,,,,,42816ad3ad1e626b,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + y^4,1 + y + x^2,6,below_target_d,2,upper_bound,,,,,,,,db8cf426f191bb5c,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + y^4,1 + y + x^4,6,below_target_d,2,upper_bound,,,,,,,,bec07a28cba2fb63,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + y^4,1 + y^2 + x^2,6,below_target_d,2,upper_bound,,,,,,,,2658feb6cc4587a0,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + y^4,y^2 + x^2 + x^6,6,below_target_d,2,upper_bound,,,,,,,,5a7f7b2cb0fa6989,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + y^4,y^3 + x + x^2,6,below_target_d,2,upper_bound,,,,,,,,6661aa5faeafd5db,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + x^2,1 + x^4 + x^8,6,below_target_d,2,upper_bound,,,,,,,,bff176366127e708,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + x^2,1 + y + x^2,6,below_target_d,2,upper_bound,,,,,,,,c1b7600e66200eb1,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + x^2,1 + y^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,65b0934cd2e893ee,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + x^2,y^3 + x^8 + x^10,6,below_target_d,6,upper_bound,,,,,,,,1577744054f477ad,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + x^2,1 + y^4 + x^8,6,below_target_d,6,upper_bound,,,,,,,,5914fe96dcf45bc3,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + x^2,y^5 + x^4 + x^6,6,below_target_d,6,upper_bound,,,,,,,,05ddf25fadeba0a3,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + x^2,1 + x^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,b98d9b16ba8609a0,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + x^2,1 + y^2 + x^2,6,below_target_d,2,upper_bound,,,,,,,,e926b3769360a4c6,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + x^2,1 + y^2 + x^8,6,below_target_d,6,upper_bound,,,,,,,,3f810f7a26761783,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + x^2,y^2 + x^2 + x^6,6,below_target_d,4,upper_bound,,,,,,,,2e96cfdd7fd2ea17,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + x^2,1 + y^4 + x^4,6,below_target_d,4,upper_bound,,,,,,,,80ae22f5ff412176,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + x^2,1 + y^4 + x^10,6,below_target_d,4,upper_bound,,,,,,,,821ae81656f83dbb,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + x^2,y^4 + x^4 + x^6,6,below_target_d,6,upper_bound,,,,,,,,e3f11b34dd6e742e,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y + y^3 + x^2,y + x^2 + x^6,6,below_target_d,4,upper_bound,,,,,,,,e9c992b726b36fb4,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y + y^3 + x^2,1 + y^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,6ed2c4d030282edb,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y + y^3 + x^2,1 + y^4 + x^8,6,below_target_d,6,upper_bound,,,,,,,,a5c9b041740cc5c5,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y + y^3 + x^2,y^5 + x^6 + x^10,6,below_target_d,6,upper_bound,,,,,,,,4e04698d0e1bbd1e,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y^2 + y^3 + x^2,1 + y + x^10,6,below_target_d,6,upper_bound,,,,,,,,ec265c55b28fccbe,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y^2 + y^3 + x^2,y^3 + x^2 + x^4,6,below_target_d,6,upper_bound,,,,,,,,20d5f9d76dcbd51d,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y^2 + y^3 + x^2,y^5 + x^6 + x^8,6,below_target_d,6,upper_bound,,,,,,,,7fbe9d5d88d164d2,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y + y^2 + x^3,1 + x^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,e9b21ce071a04b20,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y + y^5 + x^3,1 + x^2 + x^4,6,below_target_d,8,upper_bound,,,,,,,,b4df5bb44d8331da,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y + y^5 + x^3,y^3 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,e6c9bdd7ee6e45fc,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y + y^5 + x^3,y^3 + x + x^11,6,below_target_d,6,upper_bound,,,,,,,,1c14f14647e1cdf7,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y + y^5 + x^3,y^3 + x^7 + x^11,6,below_target_d,8,upper_bound,,,,,,,,638e57cf1e97d110,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + x^4,1 + x^4 + x^8,6,below_target_d,2,upper_bound,,,,,,,,7332732d94cce9cc,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + x^4,1 + y + x^4,6,below_target_d,2,upper_bound,,,,,,,,6ce09f406bcf694e,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + x^4,y^3 + x^4 + x^8,6,below_target_d,4,upper_bound,,,,,,,,d2d5e7daf9e4ceed,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y + x^4,1 + y^5 + x^8,6,below_target_d,4,upper_bound,,,,,,,,bc98a03230911e4a,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + x^4,1 + x^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,0456da709d537285,gross_family_12x6_v2.csv
+Z12xZ6,144,16,1 + y^2 + x^4,y^3 + x^2 + x^4,6,below_target_d,6,upper_bound,,,,,,,,21baace9b223aff2,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y + y^2 + x^6,1 + x^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,27e483f5455d378e,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y^2 + y^4 + x^6,1 + x + x^2,6,below_target_d,4,upper_bound,,,,,,,,1a35641ce0a5a74d,gross_family_12x6_v2.csv
+Z12xZ6,144,16,y^2 + y^4 + x^6,1 + y^2 + x^2,6,below_target_d,4,upper_bound,,,,,,,,369d6d3d6ead0e91,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + y^2,1 + x + x^2,6,below_target_d,8,upper_bound,,,,,,,,8ac7b7cc10c49d24,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + y^2,1 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,9039d9c971971798,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + y^2,1 + y + x^2,6,below_target_d,12,upper_bound,,,,,,,,510b225ba1cd55a4,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + y^2,y + x^2 + x^6,6,below_target_d,12,upper_bound,,,,,,,,a8ed90c01b2a347b,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + y^2,y + x^4 + x^6,6,below_target_d,12,upper_bound,,,,,,,,0fe93a1f0e01ab07,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + y^2,1 + y^2 + x^2,6,below_target_d,12,upper_bound,,,,,,,,80564749ee7d6761,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + y^2,y^2 + x^2 + x^6,6,below_target_d,12,upper_bound,,,,,,,,3c656cd067e9109f,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + y^2,y^3 + x + x^2,6,below_target_d,12,upper_bound,,,,,,,,88487adf01b19845,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + y^2,y^3 + x + x^8,6,below_target_d,12,upper_bound,,,,,,,,bbe7e6aa3817970c,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + y^4,1 + y + x,6,below_target_d,2,upper_bound,,,,,,,,8b9c35aa0bdd6c61,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + y^4,y + x + x^3,6,below_target_d,2,upper_bound,,,,,,,,8c3e12713e002f04,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + y^4,y + x + x^9,6,below_target_d,2,upper_bound,,,,,,,,3fb73178015aa6d3,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + y^4,y + x^2 + x^3,6,below_target_d,2,upper_bound,,,,,,,,feea58c76e8f34da,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + y^4,1 + y^2 + x,6,below_target_d,2,upper_bound,,,,,,,,22074535e2e928af,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + y^4,y^2 + x + x^6,6,below_target_d,2,upper_bound,,,,,,,,3009796750e4e30e,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,1 + x^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,2422d2c6de6c4865,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,1 + y + x,6,below_target_d,2,upper_bound,,,,,,,,8e010c472f466eda,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,1 + y + x^7,6,below_target_d,6,upper_bound,,,,,,,,3a66578408ba7152,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,y + x + x^6,6,below_target_d,4,upper_bound,,,,,,,,7879d516cbfa88dd,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,1 + y^2 + x^2,6,below_target_d,4,upper_bound,,,,,,,,62076706e885d9e9,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,1 + y^2 + x^8,6,below_target_d,6,upper_bound,,,,,,,,c32702624f0b3c58,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,y^2 + x^2 + x^6,6,below_target_d,8,upper_bound,,,,,,,,5d0378a4a74203c7,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,y^3 + x^4 + x^5,6,below_target_d,12,upper_bound,,,,,,,,a2fb21925c5cebe7,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,y^3 + x^4 + x^11,6,below_target_d,12,upper_bound,,,,,,,,2e1067a017b10724,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,y^3 + x^5 + x^10,6,below_target_d,10,upper_bound,,,,,,,,7b10aee80491d402,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,y^3 + x^10 + x^11,6,below_target_d,8,upper_bound,,,,,,,,1eece4cefe64f996,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,1 + y^4 + x^4,6,below_target_d,6,upper_bound,,,,,,,,be39b12201534013,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,1 + y^4 + x^10,6,below_target_d,8,upper_bound,,,,,,,,427c26af35561342,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,y^4 + x^4 + x^6,6,below_target_d,10,upper_bound,,,,,,,,6587e683ed27107b,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,y^5 + x^2 + x^3,6,below_target_d,10,upper_bound,,,,,,,,e3459063a31f8d93,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,y^5 + x^2 + x^9,6,below_target_d,8,upper_bound,,,,,,,,ec161fbcedc6f72f,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,y^5 + x^3 + x^8,6,below_target_d,10,upper_bound,,,,,,,,c2bfa139fb7c011f,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x,y^5 + x^8 + x^9,6,below_target_d,12,upper_bound,,,,,,,,0029a1de9939b61e,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + x + x^2,6,below_target_d,6,upper_bound,,,,,,,,859ad9d612bd6fa6,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,b89dc63269cded04,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + x + x^8,6,below_target_d,8,upper_bound,,,,,,,,e07164b6c979bba4,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + x^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,d0104bbdb92d4d9c,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + x^2 + x^7,6,below_target_d,8,upper_bound,,,,,,,,ca9f974e103ac7e6,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + y^2 + x,6,below_target_d,2,upper_bound,,,,,,,,69aed2db937e44f2,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + y^2 + x^4,6,below_target_d,6,upper_bound,,,,,,,,f84400be439e7e3f,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + y^2 + x^7,6,below_target_d,6,upper_bound,,,,,,,,e51d63fad1ec2e2b,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + y^2 + x^10,6,below_target_d,6,upper_bound,,,,,,,,820bdac1d660b396,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^2 + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,89d4cd89e9af98f6,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^2 + x + x^6,6,below_target_d,4,upper_bound,,,,,,,,702e415b43e0cd67,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^2 + x + x^9,6,below_target_d,8,upper_bound,,,,,,,,79ce018af199a922,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^2 + x^3 + x^7,6,below_target_d,6,upper_bound,,,,,,,,973d19f27d441e7a,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^2 + x^3 + x^10,6,below_target_d,8,upper_bound,,,,,,,,ed6182f160df580f,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^2 + x^4 + x^6,6,below_target_d,10,upper_bound,,,,,,,,9567b9fa3726bb73,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + y^4 + x^2,6,below_target_d,12,upper_bound,,,,,,,,d9b56274a6f05d10,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + y^4 + x^5,6,below_target_d,8,upper_bound,,,,,,,,cc5f3cd86ee5fd6d,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + y^4 + x^8,6,below_target_d,6,upper_bound,,,,,,,,6638b00668d0f7f3,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,1 + y^4 + x^11,6,below_target_d,4,upper_bound,,,,,,,,c5c3f55791d0fec8,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^4 + x^2 + x^3,6,below_target_d,8,upper_bound,,,,,,,,b68e01614a15e728,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^4 + x^2 + x^6,6,below_target_d,8,upper_bound,,,,,,,,e3977b680555b1b7,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^4 + x^2 + x^9,6,below_target_d,8,upper_bound,,,,,,,,851e458ba91fbdef,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^4 + x^3 + x^8,6,below_target_d,8,upper_bound,,,,,,,,78ff383e8d46cbf8,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^4 + x^3 + x^11,6,below_target_d,8,upper_bound,,,,,,,,3287d1b7cca8c518,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x,y^4 + x^5 + x^6,6,below_target_d,8,upper_bound,,,,,,,,0d9ec8b6a4d49a5a,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^3 + x,1 + y + x^5,6,below_target_d,12,upper_bound,,,,,,,,e05c3d240f3ba5ab,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^3 + x,1 + y + x^11,6,below_target_d,6,upper_bound,,,,,,,,94841e64a8e2e68f,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^3 + x,y + x^5 + x^6,6,below_target_d,10,upper_bound,,,,,,,,3774b85ac9f0990d,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^3 + x,y^5 + x^3 + x^4,6,below_target_d,12,upper_bound,,,,,,,,c2c8cbdf9ec1947e,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^3 + x,y^5 + x^3 + x^10,6,below_target_d,14,upper_bound,,,,,,,,03850906b3d81939,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^3 + x,y^5 + x^4 + x^9,6,below_target_d,12,upper_bound,,,,,,,,6e4c38c57917b13f,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^2,1 + x^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,8b26e55886454141,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^2,1 + y + x^8,6,below_target_d,4,upper_bound,,,,,,,,e7571d9e399c94eb,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^2,y + x^6 + x^8,6,below_target_d,4,upper_bound,,,,,,,,5a51c4133bb6bb6b,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^2,1 + y^2 + x^10,6,below_target_d,8,upper_bound,,,,,,,,06303326823adb2e,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^2,y^2 + x^6 + x^10,6,below_target_d,8,upper_bound,,,,,,,,160efd71b7836305,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^2,y^3 + x^2 + x^4,6,below_target_d,6,upper_bound,,,,,,,,938ff9959f6ebba6,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^2,y^3 + x^2 + x^10,6,below_target_d,4,upper_bound,,,,,,,,a2d6a94ad3adb65e,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^2,1 + y^4 + x^2,6,below_target_d,12,upper_bound,,,,,,,,c93c7709751fc0d4,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^2,y^4 + x^2 + x^6,6,below_target_d,6,upper_bound,,,,,,,,210be26143ee7b1d,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^2,1 + y^5 + x^4,6,below_target_d,8,upper_bound,,,,,,,,24d9b9991888c37b,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^2,1 + y^5 + x^10,6,below_target_d,8,upper_bound,,,,,,,,c93748060f710f3f,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^2,1 + x + x^2,6,below_target_d,8,upper_bound,,,,,,,,606ec404846b23da,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^2,1 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,c148e27375976cc9,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^2,1 + y + x^4,6,below_target_d,8,upper_bound,,,,,,,,5d5797f4292d79b9,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^2,y + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,fcfb9ac7986ed6e4,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^2,y^2 + x^2 + x^3,6,below_target_d,10,upper_bound,,,,,,,,9587b73fbfdd0066,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^2,y^2 + x^5 + x^6,6,below_target_d,10,upper_bound,,,,,,,,4115e290c20a8fa0,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^2,y^3 + x + x^2,6,below_target_d,8,upper_bound,,,,,,,,7aa216161f90e44e,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^2,y^3 + x^2 + x^4,6,below_target_d,6,upper_bound,,,,,,,,19192ed74dd1a159,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^2,y^4 + x + x^6,6,below_target_d,4,upper_bound,,,,,,,,fbce097b3e45f946,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^2,1 + y^5 + x^8,6,below_target_d,6,upper_bound,,,,,,,,ca960d179ab55402,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^3 + x^2,1 + x^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,7711dca0732e3e2d,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^3 + x^2,1 + y + x^2,6,below_target_d,6,upper_bound,,,,,,,,45cdb719b1413572,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^3 + x^2,1 + y + x^8,6,below_target_d,6,upper_bound,,,,,,,,b72d24befa35fab7,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^3 + x^2,y + x^6 + x^8,6,below_target_d,12,upper_bound,,,,,,,,6d80b23ff08b0381,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^3 + x^2,1 + y^2 + x^10,6,below_target_d,8,upper_bound,,,,,,,,65145c3291cee9a4,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^3 + x^2,y^3 + x^2 + x^4,6,below_target_d,6,upper_bound,,,,,,,,c3cee8d24023cd96,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^3 + x^2,y^3 + x^8 + x^10,6,below_target_d,6,upper_bound,,,,,,,,83e0224f109a8c45,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^3 + x^2,1 + y^4 + x^2,6,below_target_d,12,upper_bound,,,,,,,,7e5810c627f9cc85,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^3 + x^2,1 + y^5 + x^4,6,below_target_d,8,upper_bound,,,,,,,,7b23654aee262ab7,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^3 + x^2,1 + y^5 + x^10,6,below_target_d,8,upper_bound,,,,,,,,0cf59afe8682013f,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^3 + x^2,y^5 + x^4 + x^6,6,below_target_d,8,upper_bound,,,,,,,,cecc3fc744970b54,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^3 + x^2,1 + x^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,ce06afd0fb2c6f6b,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^3 + x^2,y + x^4 + x^6,6,below_target_d,8,upper_bound,,,,,,,,33c76f71232b7e47,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^3 + x^2,y^3 + x^8 + x^10,6,below_target_d,6,upper_bound,,,,,,,,58a00145f453db4b,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^3 + x^2,1 + y^5 + x^2,6,below_target_d,4,upper_bound,,,,,,,,b09059426f018de5,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^2 + x^3,1 + x + x^2,6,below_target_d,8,upper_bound,,,,,,,,ba160e047e6ffc30,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^2 + x^3,1 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,8e70a14e6e679ca6,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^2 + x^3,1 + x + x^8,6,below_target_d,8,upper_bound,,,,,,,,ee6838de970e1475,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^2 + x^3,1 + y^2 + x^2,6,below_target_d,8,upper_bound,,,,,,,,0e3426252f58c718,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^2 + x^3,1 + y^2 + x^4,6,below_target_d,6,upper_bound,,,,,,,,7bea9ec32e00f11d,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^2 + x^3,y^3 + x^2 + x^4,6,below_target_d,12,upper_bound,,,,,,,,ceb71940b859050d,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^2 + x^3,1 + y^5 + x,6,below_target_d,10,upper_bound,,,,,,,,0bb3b31a42bebf67,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^2 + x^3,1 + y^5 + x^7,6,below_target_d,14,upper_bound,,,,,,,,a4fff75535a24252,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^2 + x^3,y^5 + x + x^6,6,below_target_d,14,upper_bound,,,,,,,,db021ea27fd5b599,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^5 + x^3,1 + x + x^2,6,below_target_d,8,upper_bound,,,,,,,,1fb8e82a1fcf6f23,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^5 + x^3,1 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,ea96e6dc7bdfb447,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^5 + x^3,y + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,408c06e84ab2fba1,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^5 + x^3,y + x^7 + x^9,6,below_target_d,8,upper_bound,,,,,,,,fe9bc9fbe42e1e93,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^5 + x^3,1 + y^2 + x^2,6,below_target_d,6,upper_bound,,,,,,,,c02cfc02604315dc,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^5 + x^3,1 + y^2 + x^4,6,below_target_d,8,upper_bound,,,,,,,,748739abc85bd3f2,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^5 + x^3,y^3 + x^2 + x^4,6,below_target_d,14,upper_bound,,,,,,,,5defb20b4532041b,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^4 + x^3,1 + y^2 + x,6,below_target_d,6,upper_bound,,,,,,,,747ae2c804fe5778,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^4 + x^3,1 + y^2 + x^7,6,below_target_d,8,upper_bound,,,,,,,,ef27efbe69f092bb,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^4 + x^3,y^2 + x + x^6,6,below_target_d,8,upper_bound,,,,,,,,ad590ee8c4ac0025,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^4,1 + x^2 + x^4,6,below_target_d,4,upper_bound,,,,,,,,a89d43976d1ef19b,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^4,y + x^6 + x^10,6,below_target_d,4,upper_bound,,,,,,,,af240b4ce3211821,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^4,y^3 + x^2 + x^4,6,below_target_d,6,upper_bound,,,,,,,,52b83f5d0f50c673,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^4,y^3 + x^2 + x^10,6,below_target_d,4,upper_bound,,,,,,,,d988a098eef78e58,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y + x^4,y^5 + x^2 + x^6,6,below_target_d,8,upper_bound,,,,,,,,7b083f0b68567e88,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^4,1 + x + x^2,6,below_target_d,8,upper_bound,,,,,,,,fd26fd02efb5f202,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^4,y + x^3 + x^5,6,below_target_d,8,upper_bound,,,,,,,,309c0325f4d42a34,gross_family_12x6_v2.csv
+Z12xZ6,144,8,1 + y^2 + x^4,y^2 + x + x^3,6,below_target_d,10,upper_bound,,,,,,,,8881c335f598e1e7,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^2 + x^6,1 + x + x^2,6,below_target_d,6,upper_bound,,,,,,,,7415b1fcf4e3b87b,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y + y^2 + x^6,1 + y^2 + x^2,6,below_target_d,6,upper_bound,,,,,,,,959956691e2950e2,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^4 + x^6,1 + y + x,6,below_target_d,4,upper_bound,,,,,,,,b8f347f7d9a95898,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^4 + x^6,y + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,12e0002bf5848f80,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^4 + x^6,1 + y^2 + x,6,below_target_d,4,upper_bound,,,,,,,,381f4e44af11e640,gross_family_12x6_v2.csv
+Z12xZ6,144,8,y^2 + y^4 + x^6,y^2 + x + x^6,6,below_target_d,4,upper_bound,,,,,,,,e184b6adc2662816,gross_family_12x6_v2.csv
+Z12xZ6,144,24,y + y^2 + x^6,y^3 + x^2 + x^4,6,below_target_d,6,upper_bound,,,,,,,,fc5e05ff3beaf39b,gross_family_12x6_v2.csv
+Z12xZ6,144,12,y + y^2 + x^3,y^3 + x + x^2,6,screen_timeout,,unresolved,,,,,,,,c6f940556f723d61,gross_family_12x6.csv
+Z12xZ6,144,12,y + y^2 + x^3,y^3 + x^2 + x^7,6,screen_timeout,,unresolved,,,,,,,,0bcc6f71df24e930,gross_family_12x6.csv
+Z12xZ6,144,12,y + y^2 + x^3,y^3 + x^4 + x^5,6,below_target_d,8,upper_bound,,,,,,,,cdd1c1620dd31141,gross_family_12x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,0e319a22f92ebc79,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,f7098294cc22dab7,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x + x^10,6,below_target_d,8,upper_bound,,,,,,,,4bb62149ccc75f23,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x + x^12,6,below_target_d,8,upper_bound,,,,,,,,8549f4bff76fd051,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^2 + x^3,6,below_target_d,8,upper_bound,,,,,,,,fe549c5dfe78139c,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^2 + x^13,6,below_target_d,8,upper_bound,,,,,,,,c359f9f8433768da,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^3 + x^8,6,below_target_d,8,upper_bound,,,,,,,,e39a99111e59a393,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^3 + x^9,6,below_target_d,8,upper_bound,,,,,,,,9ac1c48d8db8f9a3,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^4 + x^5,6,below_target_d,8,upper_bound,,,,,,,,a9688da3a4c25f76,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^4 + x^13,6,below_target_d,8,upper_bound,,,,,,,,fd81bdcf756c4bd3,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^5 + x^8,6,below_target_d,8,upper_bound,,,,,,,,88896d74c7d888e8,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^5 + x^11,6,below_target_d,8,upper_bound,,,,,,,,a4bdd3302d56b271,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^6 + x^9,6,below_target_d,8,upper_bound,,,,,,,,911a95326630bd3a,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^6 + x^11,6,below_target_d,8,upper_bound,,,,,,,,c55b09e3f6ee48f8,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^9 + x^10,6,below_target_d,8,upper_bound,,,,,,,,09af21b057e42724,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^9 + x^13,6,below_target_d,8,upper_bound,,,,,,,,74add8f7eb7d1152,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^11 + x^12,6,below_target_d,8,upper_bound,,,,,,,,fcec2d4da307cac6,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,1 + x^11 + x^13,6,below_target_d,8,upper_bound,,,,,,,,4ccf3e493ea7690c,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,86b3acd871a724b5,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,bc99d4c6d44df44d,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x + x^10,6,below_target_d,12,upper_bound,,,,,,,,3a40633e92aaebda,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x + x^12,6,below_target_d,12,upper_bound,,,,,,,,1a47a2f0e060df11,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^2 + x^3,6,below_target_d,12,upper_bound,,,,,,,,5cb852eb3b596d4e,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^2 + x^13,6,below_target_d,12,upper_bound,,,,,,,,933d58fe7f3299f9,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^3 + x^8,6,below_target_d,12,upper_bound,,,,,,,,37002f634d1c2946,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^3 + x^9,6,below_target_d,8,upper_bound,,,,,,,,c5a45ae80fd040e1,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^4 + x^5,6,below_target_d,12,upper_bound,,,,,,,,e86da17f45565d7a,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^4 + x^13,6,below_target_d,12,upper_bound,,,,,,,,5fd3e8a9d3526bc0,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^5 + x^8,6,below_target_d,12,upper_bound,,,,,,,,3a3423f607af3eaf,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^5 + x^11,6,below_target_d,8,upper_bound,,,,,,,,8135ac22bdf5c61b,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^6 + x^9,6,below_target_d,12,upper_bound,,,,,,,,897ff453ea47b269,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^6 + x^11,6,below_target_d,12,upper_bound,,,,,,,,39f9b5a8a77dd1a2,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^9 + x^10,6,below_target_d,12,upper_bound,,,,,,,,e0ffc9467e8b9c94,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^9 + x^13,6,below_target_d,8,upper_bound,,,,,,,,264f12eb6f15b571,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^11 + x^12,6,below_target_d,12,upper_bound,,,,,,,,01102b16f80bada6,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^2,y^3 + x^11 + x^13,6,below_target_d,8,upper_bound,,,,,,,,4497ce08e23d2425,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,775a0e879e453841,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,bf83cc27986363e3,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x + x^10,6,below_target_d,8,upper_bound,,,,,,,,d7adc949e32cf10c,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x + x^12,6,below_target_d,8,upper_bound,,,,,,,,d1cb97e40ee41cdb,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^2 + x^3,6,below_target_d,8,upper_bound,,,,,,,,cf6fd68b67374eac,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^2 + x^13,6,below_target_d,8,upper_bound,,,,,,,,10a5f36517f061e9,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^3 + x^8,6,below_target_d,8,upper_bound,,,,,,,,b31e75c0ae6d3a91,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^3 + x^9,6,below_target_d,8,upper_bound,,,,,,,,68828f646e7c10ff,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^4 + x^5,6,below_target_d,8,upper_bound,,,,,,,,30c1475cd86bfc22,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^4 + x^13,6,below_target_d,8,upper_bound,,,,,,,,7d26128f9f8a3eae,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^5 + x^8,6,below_target_d,8,upper_bound,,,,,,,,338ed59857318074,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^5 + x^11,6,below_target_d,8,upper_bound,,,,,,,,e619bca2baed2b00,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^6 + x^9,6,below_target_d,8,upper_bound,,,,,,,,4c5c530d68e75f5d,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^6 + x^11,6,below_target_d,8,upper_bound,,,,,,,,1c3bd0da73eaeef8,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^9 + x^10,6,below_target_d,8,upper_bound,,,,,,,,9d538c24395ab9d9,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^9 + x^13,6,below_target_d,8,upper_bound,,,,,,,,2cb24f4b610d4dcd,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^11 + x^12,6,below_target_d,8,upper_bound,,,,,,,,3e4e730e14aa4b64,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,1 + x^11 + x^13,6,below_target_d,8,upper_bound,,,,,,,,f702334b64c08133,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,35f9a9483158e7d6,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,40d5dc6463d59cbd,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x + x^10,6,below_target_d,12,upper_bound,,,,,,,,7aa27cda6dbf6574,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x + x^12,6,below_target_d,12,upper_bound,,,,,,,,d4c1d2d541004c31,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^2 + x^3,6,below_target_d,12,upper_bound,,,,,,,,d61d1c8056583051,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^2 + x^13,6,below_target_d,12,upper_bound,,,,,,,,326cb897016ac584,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^3 + x^8,6,below_target_d,12,upper_bound,,,,,,,,4cb15a1a10c031f1,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^3 + x^9,6,below_target_d,8,upper_bound,,,,,,,,1de95edfbcaf0bdf,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^4 + x^5,6,below_target_d,12,upper_bound,,,,,,,,caa0479c1ee3e29e,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^4 + x^13,6,below_target_d,12,upper_bound,,,,,,,,6f0f5350ca9d99cd,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^5 + x^8,6,below_target_d,12,upper_bound,,,,,,,,de2aa2177e02d635,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^5 + x^11,6,below_target_d,8,upper_bound,,,,,,,,c968b3b5a9fd52c8,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^6 + x^9,6,below_target_d,12,upper_bound,,,,,,,,be884612df2db2f4,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^6 + x^11,6,below_target_d,12,upper_bound,,,,,,,,d02e027b288be6d5,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^9 + x^10,6,below_target_d,12,upper_bound,,,,,,,,895660e7361908ca,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^9 + x^13,6,below_target_d,8,upper_bound,,,,,,,,2723f77e14380ce7,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^11 + x^12,6,below_target_d,12,upper_bound,,,,,,,,40c27dfa17a81ad6,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y + y^5,y^3 + x^11 + x^13,6,below_target_d,8,upper_bound,,,,,,,,7bab2b8326fdffec,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,985acfcbf519b86c,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,eaa1a2138e58e0b9,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x + x^10,6,below_target_d,8,upper_bound,,,,,,,,9a3bf528633d45ab,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x + x^12,6,below_target_d,8,upper_bound,,,,,,,,f95e362149b8dfa1,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^2 + x^3,6,below_target_d,8,upper_bound,,,,,,,,aa113e81b18d16c1,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^2 + x^13,6,below_target_d,8,upper_bound,,,,,,,,f80e3574e6dd24f7,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^3 + x^8,6,below_target_d,8,upper_bound,,,,,,,,98f7be5bb7291949,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^3 + x^9,6,below_target_d,8,upper_bound,,,,,,,,79b1489e1e3ef53e,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^4 + x^5,6,below_target_d,8,upper_bound,,,,,,,,86da44685eb20de6,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^4 + x^13,6,below_target_d,8,upper_bound,,,,,,,,bfe9a51369e2057d,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^5 + x^8,6,below_target_d,8,upper_bound,,,,,,,,2b44180abd955caf,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^5 + x^11,6,below_target_d,8,upper_bound,,,,,,,,b9071d898b313813,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^6 + x^9,6,below_target_d,8,upper_bound,,,,,,,,ca91b471f963993f,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^6 + x^11,6,below_target_d,8,upper_bound,,,,,,,,daea33f9f6ebbde9,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^9 + x^10,6,below_target_d,8,upper_bound,,,,,,,,0be8f1a1f448b27c,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^9 + x^13,6,below_target_d,8,upper_bound,,,,,,,,0f2d5a1df44fc4f2,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^11 + x^12,6,below_target_d,8,upper_bound,,,,,,,,d8d1466e4488d82a,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,1 + x^11 + x^13,6,below_target_d,8,upper_bound,,,,,,,,5b4fc17e45b73bd7,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,y^3 + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,d0df0a83ede70de9,gross_family_14x6.csv
+Z14xZ6,168,12,1 + y^4 + y^5,y^3 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,cb6b5714a31527e5,gross_family_14x6.csv
+Z14xZ6,168,12,y + y^2 + x^7,1 + x + x^3,6,below_target_d,6,upper_bound,,,,,,,,208bfc422660a8e6,gross_family_14x6.csv
+Z14xZ6,168,12,y + y^2 + x^7,y^3 + x + x^10,6,below_target_d,6,upper_bound,,,,,,,,5e85f94042d435a6,gross_family_14x6.csv
+Z14xZ6,168,24,1 + y + y^2,1 + x^2 + x^6,6,below_target_d,4,upper_bound,,,,,,,,599439182eb91531,gross_family_14x6.csv
+Z14xZ6,168,24,1 + y + y^2,y^3 + x^2 + x^6,6,below_target_d,4,upper_bound,,,,,,,,1ff008ffa3ed4bfd,gross_family_14x6.csv
+Z14xZ6,168,24,1 + y^2 + y^4,1 + x + x^3,6,below_target_d,2,upper_bound,,,,,,,,5e71685ec9a822e5,gross_family_14x6.csv
+Z14xZ6,168,24,1 + y^2 + y^4,y^3 + x + x^10,6,below_target_d,2,upper_bound,,,,,,,,da19254bea599d6e,gross_family_14x6.csv
+Z14xZ6,168,24,y + y^2 + x^7,1 + x^2 + x^6,6,below_target_d,8,upper_bound,,,,,,,,7ee6691dd605f65f,gross_family_14x6.csv
+Z15xZ6,180,12,1 + y + y^2,y + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,9585314851e9aef8,gross_family_15x6.csv
+Z15xZ6,180,12,1 + y + y^2,y + x + x^9,6,below_target_d,8,upper_bound,,,,,,,,d3d5c77944826cfa,gross_family_15x6.csv
+Z15xZ6,180,12,1 + y + y^2,y^2 + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,7b5e7c8ed1295950,gross_family_15x6.csv
+Z15xZ6,180,12,1 + y^2 + y^4,y + x + x^3,6,below_target_d,2,upper_bound,,,,,,,,ad7e90676f95b3ad,gross_family_15x6.csv
+Z15xZ6,180,12,1 + y^2 + y^4,y + x + x^9,6,below_target_d,2,upper_bound,,,,,,,,50f38ae87680fdea,gross_family_15x6.csv
+Z15xZ6,180,16,1 + y + y^2,1 + x + x^4,6,below_target_d,8,upper_bound,,,,,,,,18af5b50d025864d,gross_family_15x6.csv
+Z15xZ6,180,16,1 + y + y^2,y + x + x^4,6,below_target_d,8,upper_bound,,,,,,,,766c62bfe1b05959,gross_family_15x6.csv
+Z15xZ6,180,16,1 + y + y^2,y^3 + x + x^12,6,below_target_d,8,upper_bound,,,,,,,,e12cc4141bbeb1d8,gross_family_15x6.csv
+Z15xZ6,180,16,1 + y^2 + y^4,1 + x + x^2,6,below_target_d,2,upper_bound,,,,,,,,0d60ae19737600bc,gross_family_15x6.csv
+Z15xZ6,180,16,1 + y^2 + y^4,1 + x + x^5,6,below_target_d,2,upper_bound,,,,,,,,495baf1dd668b043,gross_family_15x6.csv
+Z15xZ6,180,16,1 + y^2 + y^4,y + x + x^4,6,below_target_d,2,upper_bound,,,,,,,,2a45d47084b72a2c,gross_family_15x6.csv
+Z15xZ6,180,16,1 + y^2 + y^4,y^2 + x + x^2,6,below_target_d,2,upper_bound,,,,,,,,0eb629a52d7f9df3,gross_family_15x6.csv
+Z15xZ6,180,16,1 + y^2 + y^4,y^3 + x + x^12,6,below_target_d,2,upper_bound,,,,,,,,132cf2b3609bc7f2,gross_family_15x6.csv
+Z15xZ6,180,16,y^2 + y^4 + x^3,1 + x + x^2,6,below_target_d,6,upper_bound,,,,,,,,4e476a1555787386,gross_family_15x6.csv
+Z15xZ6,180,16,y^2 + y^4 + x^3,1 + x + x^5,6,below_target_d,10,upper_bound,,,,,,,,4e9e0674ae8c152b,gross_family_15x6.csv
+Z15xZ6,180,16,y^2 + y^4 + x^3,1 + x + x^8,6,below_target_d,8,upper_bound,,,,,,,,e7fbb6622aa27002,gross_family_15x6.csv
+Z15xZ6,180,16,y^2 + y^4 + x^3,1 + x^2 + x^7,6,below_target_d,8,upper_bound,,,,,,,,954607144bc45f21,gross_family_15x6.csv
+Z15xZ6,180,16,y^2 + y^4 + x^3,1 + x^2 + x^10,6,below_target_d,8,upper_bound,,,,,,,,43ee773fc96ada2b,gross_family_15x6.csv
+Z15xZ6,180,16,1 + y^2 + x^5,1 + x + x^4,6,below_target_d,8,upper_bound,,,,,,,,9d57f3bd7593c53b,gross_family_15x6.csv
+Z15xZ6,180,16,1 + y^2 + x^5,y^2 + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,561c12cbc0834467,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + y^2,1 + x + x^2,6,below_target_d,14,upper_bound,,,,,,,,d62a09b81af0e23f,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + y^2,1 + x + x^5,6,below_target_d,10,upper_bound,,,,,,,,1734024fa7ea032f,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + y^2,y + x + x^2,6,below_target_d,8,upper_bound,,,,,,,,2d1b2ccc7340bfa0,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + y^2,y + x + x^14,6,below_target_d,8,upper_bound,,,,,,,,89eda341388ec82e,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + y^2,y^2 + x + x^2,6,below_target_d,8,upper_bound,,,,,,,,0b533c0c4937e0bc,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + y^2,y^3 + x + x^2,6,below_target_d,4,upper_bound,,,,,,,,0aa27c8f1ae3e6af,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + y^2,y^3 + x + x^5,6,below_target_d,4,upper_bound,,,,,,,,a4dd4278749a0b25,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + y^2,y^3 + x + x^11,6,below_target_d,4,upper_bound,,,,,,,,7a371db7fb9a1ba4,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + y^2,y^3 + x + x^14,6,below_target_d,4,upper_bound,,,,,,,,e53107b83b79d7c3,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + y^4,y + x + x^2,6,below_target_d,2,upper_bound,,,,,,,,0d8a08e833d9bf98,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + y^4,y + x + x^14,6,below_target_d,2,upper_bound,,,,,,,,20a06751626a5c28,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + y^4,1 + y^2 + x,6,below_target_d,2,upper_bound,,,,,,,,07146470481a6666,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + y^4,y^2 + x + x^6,6,below_target_d,2,upper_bound,,,,,,,,bff2ad1b9960fb9f,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + y^4,y^2 + x + x^12,6,below_target_d,2,upper_bound,,,,,,,,bd164f7f054e1bf1,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + y^4,y^3 + x + x^2,6,below_target_d,2,upper_bound,,,,,,,,e53b3251075e1c2c,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + y^4,y^3 + x + x^5,6,below_target_d,2,upper_bound,,,,,,,,84c64a2aa098b421,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + y^4,y^3 + x + x^11,6,below_target_d,2,upper_bound,,,,,,,,51cb4ccfda91b8f2,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + y^4,y^3 + x + x^14,6,below_target_d,2,upper_bound,,,,,,,,95084df0eb7e2748,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + x + x^2,6,below_target_d,6,upper_bound,,,,,,,,3d232afd6e25a409,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + x + x^5,6,below_target_d,8,upper_bound,,,,,,,,02839282a9078181,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + x + x^8,6,below_target_d,10,upper_bound,,,,,,,,8a34483ea4a0b257,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + x + x^11,6,below_target_d,10,upper_bound,,,,,,,,08fe2189dcde7266,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + x^2 + x^4,6,below_target_d,10,upper_bound,,,,,,,,61c8885f5c1ebd1c,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + x^2 + x^7,6,below_target_d,10,upper_bound,,,,,,,,5400b72ebe4b9172,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + x^2 + x^10,6,below_target_d,10,upper_bound,,,,,,,,f15e634677f8e879,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + x^4 + x^8,6,below_target_d,10,upper_bound,,,,,,,,eeba9ebab9a8748c,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + y^2 + x,6,below_target_d,2,upper_bound,,,,,,,,dacf9460d63c15b0,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + y^2 + x^4,6,below_target_d,8,upper_bound,,,,,,,,44fe486bd01b9440,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + y^2 + x^7,6,below_target_d,12,upper_bound,,,,,,,,0477e0c09838707f,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + y^2 + x^10,6,below_target_d,6,upper_bound,,,,,,,,848027555a1fff29,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^2 + x + x^3,6,below_target_d,8,upper_bound,,,,,,,,14b5101506f07bf1,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^2 + x + x^6,6,below_target_d,10,upper_bound,,,,,,,,15cddba5b1282509,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^2 + x + x^9,6,below_target_d,12,upper_bound,,,,,,,,de7913d3535858ad,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^2 + x + x^12,6,below_target_d,10,upper_bound,,,,,,,,534d90fc075759d2,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^2 + x^3 + x^7,6,below_target_d,8,upper_bound,,,,,,,,09866ba4f04e3376,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^2 + x^3 + x^10,6,below_target_d,10,upper_bound,,,,,,,,89028164ae3ce9d4,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^2 + x^4 + x^6,6,below_target_d,8,upper_bound,,,,,,,,339c273e650c3a72,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^2 + x^4 + x^9,6,below_target_d,6,upper_bound,,,,,,,,d73ccebde1b1d587,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^2 + x^6 + x^13,6,below_target_d,10,upper_bound,,,,,,,,5e267d8303001dcb,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + y^4 + x^2,6,below_target_d,4,upper_bound,,,,,,,,8db2cdb68c4b3e55,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + y^4 + x^5,6,below_target_d,6,upper_bound,,,,,,,,25c2b3bea96f91df,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + y^4 + x^11,6,below_target_d,6,upper_bound,,,,,,,,eae0663484b22b3b,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,1 + y^4 + x^14,6,below_target_d,4,upper_bound,,,,,,,,d5a753f086574e4b,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^4 + x^2 + x^3,6,below_target_d,8,upper_bound,,,,,,,,c8a7bf28f3544916,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^4 + x^2 + x^6,6,below_target_d,12,upper_bound,,,,,,,,f3358cf33df3f48f,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^4 + x^2 + x^9,6,below_target_d,12,upper_bound,,,,,,,,424039580fc6676c,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^4 + x^2 + x^12,6,below_target_d,10,upper_bound,,,,,,,,7903a6fce683586c,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^4 + x^3 + x^11,6,below_target_d,10,upper_bound,,,,,,,,7aaf9465a1434ab2,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^4 + x^3 + x^14,6,below_target_d,10,upper_bound,,,,,,,,39418e774a45f847,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^4 + x^5 + x^6,6,below_target_d,6,upper_bound,,,,,,,,24ea077e89bf9e33,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^4 + x^5 + x^9,6,below_target_d,8,upper_bound,,,,,,,,11e32b702e68c4df,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x,y^4 + x^6 + x^14,6,below_target_d,12,upper_bound,,,,,,,,85865ac848c4b5c1,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,1 + x + x^2,6,below_target_d,10,upper_bound,,,,,,,,943c4f44efd1f425,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,1 + x + x^5,6,below_target_d,10,upper_bound,,,,,,,,b23be5ab17f0686e,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,1 + x + x^8,6,below_target_d,10,upper_bound,,,,,,,,3f748727459d6f9b,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,1 + x + x^11,6,below_target_d,14,upper_bound,,,,,,,,3914095f38a9d838,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,1 + x^2 + x^7,6,below_target_d,14,upper_bound,,,,,,,,33c660042528103f,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,1 + x^2 + x^10,6,below_target_d,10,upper_bound,,,,,,,,41db1be685bc8407,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x + x^2,6,below_target_d,12,upper_bound,,,,,,,,3dc4da3e73bd1536,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x + x^5,6,below_target_d,16,upper_bound,,,,,,,,5167ba6771893cc9,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x + x^8,6,below_target_d,16,upper_bound,,,,,,,,6650fd9d8a1ef700,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x + x^11,6,below_target_d,10,upper_bound,,,,,,,,613f458bae771ad8,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x + x^14,6,below_target_d,10,upper_bound,,,,,,,,257b967fa68aefb7,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x^2 + x^4,6,below_target_d,16,upper_bound,,,,,,,,f5f5fad8a5bff95b,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x^2 + x^7,6,below_target_d,14,upper_bound,,,,,,,,03082cd8f4b12fa8,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x^2 + x^10,6,below_target_d,12,upper_bound,,,,,,,,e56c82682d8be963,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x^2 + x^13,6,below_target_d,8,upper_bound,,,,,,,,e49d53ea983c35f7,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x^4 + x^8,6,below_target_d,12,upper_bound,,,,,,,,8fcc95a02b000d21,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x^4 + x^14,6,below_target_d,10,upper_bound,,,,,,,,be647f62b80818d5,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x^5 + x^13,6,below_target_d,14,upper_bound,,,,,,,,9fbaac6bba4b83c6,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^3,y^3 + x^8 + x^13,6,below_target_d,14,upper_bound,,,,,,,,b006ff00274aff6d,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,1 + x + x^2,6,below_target_d,12,upper_bound,,,,,,,,433d9b12af6d2536,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,1 + x + x^5,6,below_target_d,10,upper_bound,,,,,,,,2dc254c48d755e8b,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,1 + x + x^8,6,below_target_d,8,upper_bound,,,,,,,,7999c18f10062a32,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,1 + x + x^11,6,below_target_d,10,upper_bound,,,,,,,,2de8b56be02a831b,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,1 + x^2 + x^7,6,below_target_d,10,upper_bound,,,,,,,,35d5f6b357a07363,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,1 + x^2 + x^10,6,below_target_d,14,upper_bound,,,,,,,,487c93fe46750f7c,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,y^3 + x + x^2,6,below_target_d,12,upper_bound,,,,,,,,5e2cbb7e83dccf3e,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,y^3 + x + x^8,6,below_target_d,14,upper_bound,,,,,,,,62e8c603dc3c2da3,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,y^3 + x + x^11,6,below_target_d,12,upper_bound,,,,,,,,d9cfc3d495e4c2b0,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,y^3 + x + x^14,6,below_target_d,6,upper_bound,,,,,,,,9828857546ded90e,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,y^3 + x^2 + x^4,6,below_target_d,16,upper_bound,,,,,,,,2322a9e2b6d0c1e2,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,y^3 + x^2 + x^7,6,below_target_d,8,upper_bound,,,,,,,,658b1fa9b0c41b0a,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,y^3 + x^2 + x^13,6,below_target_d,10,upper_bound,,,,,,,,da9e5253db61742a,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,y^3 + x^4 + x^8,6,below_target_d,12,upper_bound,,,,,,,,73e55c1df5f15d96,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^5 + x^3,y^3 + x^8 + x^13,6,below_target_d,8,upper_bound,,,,,,,,1e0c80844ef719c0,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,1 + y^2 + x,6,below_target_d,6,upper_bound,,,,,,,,279b655611bbed5f,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,1 + y^2 + x^2,6,below_target_d,6,upper_bound,,,,,,,,8c9a2beac788635e,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,1 + y^2 + x^4,6,below_target_d,8,upper_bound,,,,,,,,4648cf6e29457438,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,1 + y^2 + x^5,6,below_target_d,6,upper_bound,,,,,,,,4cbb152942670d0c,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,1 + y^2 + x^8,6,below_target_d,6,upper_bound,,,,,,,,7eddec1297025b2c,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^2 + x + x^3,6,below_target_d,10,upper_bound,,,,,,,,ba72390cc2e9f03b,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^2 + x + x^9,6,below_target_d,10,upper_bound,,,,,,,,3e18e6b3e703ad48,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^2 + x + x^12,6,below_target_d,10,upper_bound,,,,,,,,f8c86454cae3f986,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^2 + x^2 + x^3,6,below_target_d,10,upper_bound,,,,,,,,d9c374df0017c46c,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^2 + x^2 + x^9,6,below_target_d,10,upper_bound,,,,,,,,e5b996fc96f47ea0,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^2 + x^4 + x^6,6,below_target_d,8,upper_bound,,,,,,,,fd26fbd300dd3811,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^3 + x + x^2,6,below_target_d,12,upper_bound,,,,,,,,0006fbe7196e12c7,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^3 + x + x^8,6,below_target_d,10,upper_bound,,,,,,,,2df97a5825da661e,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^3 + x + x^14,6,below_target_d,10,upper_bound,,,,,,,,5adac281e453fcbe,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^3 + x^2 + x^4,6,below_target_d,16,upper_bound,,,,,,,,5c6cec99581d38b8,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^3 + x^2 + x^13,6,below_target_d,8,upper_bound,,,,,,,,f86f34c93d1d7949,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^3,y^3 + x^4 + x^8,6,below_target_d,12,upper_bound,,,,,,,,691e9d354a6f8d77,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + x^5,1 + x + x^4,6,below_target_d,8,upper_bound,,,,,,,,e8c490d958b827aa,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + x^5,y + x + x^3,6,below_target_d,16,upper_bound,,,,,,,,d759e36be0c44512,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + x^5,y + x^2 + x^8,6,below_target_d,16,upper_bound,,,,,,,,48434ea6212f1ad4,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + x^5,y^2 + x + x^2,6,below_target_d,16,upper_bound,,,,,,,,a1698f510ad54ea4,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + x^5,y^2 + x + x^4,6,below_target_d,8,upper_bound,,,,,,,,142287bacc5c65a7,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + x^5,y^3 + x + x^4,6,below_target_d,16,upper_bound,,,,,,,,fbf2460b213ce2ff,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + x^5,y^3 + x + x^12,6,below_target_d,16,upper_bound,,,,,,,,32437be11463e4d2,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + x^5,y^4 + x + x^3,6,below_target_d,14,upper_bound,,,,,,,,d3f763a93f47d3d4,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + x^5,y^4 + x^2 + x^8,6,below_target_d,8,upper_bound,,,,,,,,ccec3dfbb833e6f4,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + x^5,y^5 + x + x^2,6,below_target_d,16,upper_bound,,,,,,,,581a59fdf2d03ded,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y + x^5,y^5 + x + x^4,6,below_target_d,14,upper_bound,,,,,,,,2773200540601773,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x^5,1 + x + x^2,6,below_target_d,10,upper_bound,,,,,,,,bcfdee70c2168cc9,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x^5,y + x + x^2,6,below_target_d,10,upper_bound,,,,,,,,bc3e406a89e54d8d,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x^5,y + x + x^4,6,below_target_d,10,upper_bound,,,,,,,,b887846312a06ee9,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x^5,y^2 + x^2 + x^3,6,below_target_d,12,upper_bound,,,,,,,,a75d697064cfdf81,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x^5,y^3 + x + x^12,6,below_target_d,14,upper_bound,,,,,,,,bc5da66904532099,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x^5,y^4 + x + x^3,6,below_target_d,12,upper_bound,,,,,,,,db6f7ecebb3790bc,gross_family_15x6.csv
+Z15xZ6,180,8,1 + y^2 + x^5,y^5 + x + x^3,6,below_target_d,10,upper_bound,,,,,,,,811315801d643265,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^5,y + x + x^9,6,below_target_d,16,upper_bound,,,,,,,,ec30ab337342c76e,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^5,y + x + x^14,6,below_target_d,16,upper_bound,,,,,,,,2bdb2cb239e90601,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^5,y + x^2 + x^3,6,below_target_d,10,upper_bound,,,,,,,,26cd250041b5ebb7,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^2 + x^5,y^2 + x + x^9,6,below_target_d,14,upper_bound,,,,,,,,d39297c69fe0b8df,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^3 + x^5,y + x + x^3,6,below_target_d,10,upper_bound,,,,,,,,1028aafd6869940a,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^3 + x^5,y + x + x^8,6,below_target_d,16,upper_bound,,,,,,,,c557acf3e34c3e14,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^3 + x^5,y^3 + x + x^12,6,below_target_d,16,upper_bound,,,,,,,,e3eb80be6ef5a771,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^3 + x^5,y^3 + x^2 + x^9,6,below_target_d,10,upper_bound,,,,,,,,832d05472beaeaf2,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^3 + x^5,y^5 + x + x^2,6,below_target_d,14,upper_bound,,,,,,,,33b782637b739779,gross_family_15x6.csv
+Z15xZ6,180,8,y + y^3 + x^5,y^5 + x^2 + x^6,6,below_target_d,10,upper_bound,,,,,,,,dd18b63dddd2d361,gross_family_15x6.csv
+Z15xZ6,180,8,y^2 + y^4 + x^5,y + x + x^9,6,below_target_d,10,upper_bound,,,,,,,,989b7bc98dfc1c17,gross_family_15x6.csv
+Z15xZ6,180,20,1 + y + y^2,1 + y + x^5,6,below_target_d,8,upper_bound,,,,,,,,c51b4d18989a5c05,gross_family_15x6.csv
+Z15xZ6,180,20,1 + y + y^2,1 + y^2 + x^5,6,below_target_d,10,upper_bound,,,,,,,,9b7f3ae9eb4f6573,gross_family_15x6.csv
+Z15xZ6,180,20,1 + y^2 + y^4,1 + y + x^5,6,below_target_d,2,upper_bound,,,,,,,,9b1113ab9cc6b017,gross_family_15x6.csv
+Z15xZ6,180,20,1 + y + x^5,1 + x^5 + x^10,6,below_target_d,2,upper_bound,,,,,,,,d9d99e5564cd7c22,gross_family_15x6.csv
+Z15xZ6,180,20,1 + y + x^5,1 + y + x^5,6,below_target_d,2,upper_bound,,,,,,,,ec4963c0d5fdbbbf,gross_family_15x6.csv
+Z15xZ6,180,20,1 + y + x^5,1 + y^2 + x^10,6,below_target_d,8,upper_bound,,,,,,,,8fc170a86a5d03f6,gross_family_15x6.csv
+Z15xZ6,180,20,1 + y + x^5,y^3 + x^5 + x^10,6,below_target_d,8,upper_bound,,,,,,,,bf022f49aa7738ca,gross_family_15x6.csv
+Z15xZ6,180,20,1 + y + x^5,1 + y^4 + x^5,6,below_target_d,10,upper_bound,,,,,,,,adf013fec1d2c50f,gross_family_15x6.csv
+Z15xZ6,180,20,1 + y + x^5,1 + y^5 + x^10,6,below_target_d,8,upper_bound,,,,,,,,df5523ac22f22215,gross_family_15x6.csv
+Z15xZ6,180,20,y + y^3 + x^5,1 + y + x^5,6,below_target_d,8,upper_bound,,,,,,,,e1853c0a1b62be89,gross_family_15x6.csv
+Z15xZ6,180,20,y + y^3 + x^5,1 + y^5 + x^10,6,below_target_d,6,upper_bound,,,,,,,,a464258f3b879288,gross_family_15x6.csv
+Z15xZ6,180,24,1 + y + y^2,y + x^3 + x^12,6,below_target_d,6,upper_bound,,,,,,,,8a65d294b4aea6b4,gross_family_15x6.csv
+Z15xZ6,180,24,1 + y + y^2,y^2 + x^3 + x^12,6,below_target_d,8,upper_bound,,,,,,,,19290529ab5923ff,gross_family_15x6.csv
+Z15xZ6,180,24,1 + y^2 + y^4,y + x^3 + x^12,6,below_target_d,2,upper_bound,,,,,,,,a4b7a776ebc3ac4f,gross_family_15x6.csv
+Z15xZ6,180,24,1 + y^2 + y^4,y^2 + x + x^3,6,below_target_d,2,upper_bound,,,,,,,,a299f9802260d0b2,gross_family_15x6.csv
+Z3xZ3,18,6,1 + y,1 + y,4,below_target_d,2,upper_bound,,,,,,,,6d4a7ddda73656bd,k6_33.csv
+Z3xZ3,18,6,1 + y,1 + y + x + x*y,6,evaluated,3,exact,3.0,False,False,0,3,exact,False,5c4eaa7da2844c5f,k6_33.csv
+Z3xZ3,18,6,1 + y + x + x*y,1 + y + x + x*y^2,8,evaluated,3,exact,3.0,False,False,0,3,exact,False,7052bf7adce8be41,k6_33.csv
+Z4xZ4,32,6,1 + y,1 + x + x^2 + x^3,6,below_target_d,2,upper_bound,,,,,,,,e1f3e75567b10bdb,k6_44.csv
+Z4xZ4,32,6,1 + y,1 + x + x^2 + x^3*y,6,evaluated,4,exact,3.0,False,False,0,4,exact,False,87c3e99bcbe05c4d,k6_44.csv
+Z4xZ4,32,6,1 + y,1 + x + x^2 + x^3*y^2,6,evaluated,4,exact,3.0,False,False,0,4,exact,False,084950050b3a1ecc,k6_44.csv
+Z4xZ4,32,6,1 + y,1 + x + x^2*y^2 + x^3*y^2,6,below_target_d,2,upper_bound,,,,,,,,3ed1a6653c79e1c2,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + y^3,1 + y + y^2 + x,8,below_target_d,2,upper_bound,,,,,,,,948459c61971a8e5,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + y^3,1 + y + x + x^2,8,below_target_d,2,upper_bound,,,,,,,,ed7b64370ad1584e,k6_44.csv
+Z4xZ4,32,6,1 + y,1 + x + x^2*y + x^3*y,6,evaluated,4,exact,3.0,False,False,0,4,exact,False,7ece832cbdef08fe,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + y^3,1 + y + x + x^2*y,8,below_target_d,2,upper_bound,,,,,,,,beab03fc30741898,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + y^3,1 + y^2 + x + x^2,8,below_target_d,2,upper_bound,,,,,,,,952bf98d26fe7c4a,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + y^3,1 + y^2 + x + x^2*y,8,below_target_d,2,upper_bound,,,,,,,,a3d89a25e21f9b01,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y + y^2 + x^2*y,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,4cf8b6fe61b023e7,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y + x + x*y^3,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,309c7e3820fe1286,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y + x + x^3*y,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,80044f137e4d7f43,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y + x*y + x^2*y^3,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,9110017335256cc8,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y + x^2 + x^2*y,8,below_target_d,2,upper_bound,,,,,,,,627687e070e85c46,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y^2 + x + x*y^2,8,below_target_d,2,upper_bound,,,,,,,,d11adb3992ca740e,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y + x^2*y^2 + x^3,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,d1cbcf1d20cc82a6,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y^2 + x + x^3,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,c109886ade13276d,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y^2 + x*y + x^2,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,e2518fabe190b55a,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x,1 + y^2 + x^2 + x^3*y^3,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,ca523877d8cce921,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x,1 + x + x^2*y^3 + x^3*y,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,8964b5d7bf29b68d,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x^2,1 + y + x + x*y,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,47c53723297b2061,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x^2,1 + x + x^2*y^2 + x^3*y^2,8,below_target_d,2,upper_bound,,,,,,,,eda6e90a4c3a61f3,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x^2,1 + x + x^2 + x^3*y^2,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,cb6b699a9d455117,k6_44.csv
+Z4xZ4,32,6,1 + y + y^2 + x^2*y,1 + y + x + x^2*y^2,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,395f1a1360d3bb6a,k6_44.csv
+Z4xZ4,32,6,1 + y + x + x*y^2,1 + x + x^2*y^2 + x^3*y^2,8,below_target_d,2,upper_bound,,,,,,,,438337d11d15172b,k6_44.csv
+Z4xZ4,32,6,1 + y + x + x*y,1 + y + x*y^2 + x^2*y,8,evaluated,4,exact,3.0,False,False,0,4,exact,False,d1a1a215def49e95,k6_44.csv
+Z3xZ6,36,6,1 + y,1 + y,4,below_target_d,2,upper_bound,,,,,,,,aaa89467656356f8,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y^2,4,below_target_d,3,upper_bound,,,,,,,,54860b4da0f6b0cb,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y^3,4,below_target_d,2,upper_bound,,,,,,,,3434275865d162b0,k6_36.csv
+Z3xZ6,36,6,1 + y^2,1 + y^3,4,below_target_d,2,upper_bound,,,,,,,,79d4101c37658ee8,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y + y^2 + y^3,6,below_target_d,3,upper_bound,,,,,,,,1357cf4f625f4d5c,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y + y^2 + y^4,6,below_target_d,4,upper_bound,,,,,,,,67c0095110c01eb2,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y + y^3 + y^4,6,below_target_d,3,upper_bound,,,,,,,,2c2418a9cad7315d,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y + x + x*y,6,below_target_d,3,upper_bound,,,,,,,,e9361da425e2c838,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y + x + x*y^2,6,below_target_d,4,upper_bound,,,,,,,,bd9db3c52f568b6e,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y + x + x*y^3,6,below_target_d,4,upper_bound,,,,,,,,ea8f79eeb0cd978a,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y + x + x*y^5,6,below_target_d,3,upper_bound,,,,,,,,5043e9584a08a205,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y^2 + x + x*y^2,6,below_target_d,3,upper_bound,,,,,,,,d5f594d2eb0615bb,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y^2 + x + x*y^3,6,below_target_d,4,upper_bound,,,,,,,,1fc2032eeda5f23d,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y^2 + x*y + x*y^3,6,below_target_d,3,upper_bound,,,,,,,,d2e369bcea44248b,k6_36.csv
+Z3xZ6,36,6,1 + y,1 + y^3 + x + x*y^3,6,below_target_d,2,upper_bound,,,,,,,,545d3e27e6616dbd,k6_36.csv
+Z3xZ6,36,6,1 + y^2,1 + y + y^2 + y^4,6,below_target_d,4,upper_bound,,,,,,,,a2e3faa5e8227a80,k6_36.csv
+Z3xZ6,36,6,1 + y^2,1 + y + x + x*y^2,6,below_target_d,3,upper_bound,,,,,,,,ff62969ec06591f5,k6_36.csv
+Z3xZ6,36,6,1 + y^2,1 + y^2 + x + x*y^3,6,below_target_d,4,upper_bound,,,,,,,,ffa15404ffb157f2,k6_36.csv
+Z3xZ6,36,6,1 + y^3,1 + y + y^2 + y^3,6,below_target_d,2,upper_bound,,,,,,,,927d4c2b021f4a47,k6_36.csv
+Z3xZ6,36,6,1 + y^3,1 + y + y^2 + y^4,6,below_target_d,2,upper_bound,,,,,,,,4036910f6538b691,k6_36.csv
+Z3xZ6,36,6,1 + y^3,1 + y + y^3 + x,6,below_target_d,2,upper_bound,,,,,,,,aacba4fa1da70b8e,k6_36.csv
+Z3xZ6,36,6,1 + y^3,1 + y + y^3 + x*y,6,below_target_d,2,upper_bound,,,,,,,,6f16cc73c1988fba,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^3,1 + y + y^2 + y^4,8,below_target_d,3,upper_bound,,,,,,,,6b46e782f1d9d2b8,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^3,1 + y + x + x*y^2,8,below_target_d,3,upper_bound,,,,,,,,8b5ac6acdbfe54b0,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^3,1 + y^2 + x + x*y^3,8,below_target_d,4,upper_bound,,,,,,,,3d81a5a577b3f41c,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^4,1 + y + y^3 + y^4,8,below_target_d,3,upper_bound,,,,,,,,f8783ea7bc476e46,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^4,1 + y + x + x*y,8,below_target_d,3,upper_bound,,,,,,,,a8c71368ba5f65b3,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^4,1 + y + x + x*y^3,8,below_target_d,4,upper_bound,,,,,,,,320ed11bb197594c,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^4,1 + y + x + x*y^5,8,evaluated,5,exact,4.167,False,False,0,3,exact,False,015b41440872ff43,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^4,1 + y^2 + x + x*y^2,8,below_target_d,3,upper_bound,,,,,,,,48727670745fb96b,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^4,1 + y^2 + x + x*y^3,8,below_target_d,4,upper_bound,,,,,,,,4a9f6ffd728360cc,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^4,1 + y + x + x*y^2,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,817e83b5445bc40e,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^4,1 + y^2 + x*y + x*y^3,8,below_target_d,3,upper_bound,,,,,,,,5984ee366e84ef25,k6_36.csv
+Z3xZ6,36,6,1 + y + y^2 + y^4,1 + y^3 + x + x*y^3,8,below_target_d,2,upper_bound,,,,,,,,805d268b7897aa77,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + y^4,1 + y + y^3 + x*y,8,below_target_d,2,upper_bound,,,,,,,,2821c801cdce29b8,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + y^4,1 + y^2 + x + x*y^3,8,below_target_d,3,upper_bound,,,,,,,,7e0b4144cd79b6f2,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + y^4,1 + y^3 + x + x^2*y^2,8,below_target_d,2,upper_bound,,,,,,,,b9ac29885b9f6ecd,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x,1 + y + y^3 + x*y^3,8,below_target_d,4,upper_bound,,,,,,,,0eb5a160a9b18d61,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x,1 + y + y^3 + x^2*y^5,8,below_target_d,4,upper_bound,,,,,,,,a33f2612d4e048c6,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x,1 + y + y^4 + x*y^2,8,below_target_d,4,upper_bound,,,,,,,,792bf2ca21b1d575,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x,1 + y + y^4 + x^2*y^4,8,below_target_d,4,upper_bound,,,,,,,,1f8a2431e761d51a,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x,1 + y + x + x*y^2,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,66e42b975f8f8553,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x,1 + y + x + x^2*y^4,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,d3a40ac247266184,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x,1 + y + x*y^3 + x*y^5,8,below_target_d,4,upper_bound,,,,,,,,76e114aaf5d4f574,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x,1 + y + x*y^2 + x^2*y^2,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,67d7088120184629,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x,1 + y + x^2*y + x^2*y^5,8,below_target_d,4,upper_bound,,,,,,,,45ce84d6ff3353b9,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + y^3 + x*y,8,below_target_d,2,upper_bound,,,,,,,,c4623a517ff63c84,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + y^3 + x^2*y,8,below_target_d,4,upper_bound,,,,,,,,3614474d0b3d745e,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x,1 + y + x*y^5 + x^2*y^5,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,7b1c966bfbbd9b9a,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + y^4 + x,8,below_target_d,4,upper_bound,,,,,,,,7f64ea59783754a0,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + x + x*y,8,below_target_d,3,upper_bound,,,,,,,,22032730d7e13ead,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + y^4 + x^2,8,below_target_d,4,upper_bound,,,,,,,,488cd3eced541cb0,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + x + x^2*y,8,below_target_d,3,upper_bound,,,,,,,,b3508053c17ecd14,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + x + x*y^4,8,below_target_d,4,upper_bound,,,,,,,,1813c82aaf758e3d,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + x + x^2*y^4,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,0e900272b1a21336,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + x*y + x*y^3,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,2241c3fd0c5b9b8c,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + x*y^3 + x*y^4,8,evaluated,5,exact,4.167,False,False,0,3,exact,False,caacdcdb77f5afdb,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + x*y^3 + x^2*y^4,8,below_target_d,3,upper_bound,,,,,,,,50460deb28c548e7,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + x*y^4 + x^2,8,below_target_d,4,upper_bound,,,,,,,,ad2d7398122cc7b5,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + x*y^4 + x^2*y^3,8,below_target_d,3,upper_bound,,,,,,,,d453ec40da65e6c7,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + x*y^3 + x^2*y,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,20ac1b2a17dc4216,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y^2 + x + x*y^2,8,below_target_d,3,upper_bound,,,,,,,,8f09493b16ed6213,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y^2 + x*y^2 + x^2,8,below_target_d,3,upper_bound,,,,,,,,67c8e8e48817bc1d,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y + x^2*y + x^2*y^3,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,804fe12662385e21,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y,1 + y + x + x*y^2,8,below_target_d,3,upper_bound,,,,,,,,b4873116644be51f,k6_36.csv
+Z3xZ6,36,6,1 + y + y^3 + x*y,1 + y^2 + x*y^5 + x^2*y^3,8,evaluated,5,exact,4.167,False,False,0,3,exact,False,da9f3abe68b49896,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y,1 + y + x + x^2*y^4,8,below_target_d,3,upper_bound,,,,,,,,bf11d1709ab286fd,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y,1 + y + x*y^2 + x*y^4,8,below_target_d,3,upper_bound,,,,,,,,1284cfc087aa5ee0,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y,1 + y^2 + x + x^2*y^5,8,below_target_d,3,upper_bound,,,,,,,,b13d804bd2d168da,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y^2,1 + y + x*y + x*y^2,8,evaluated,5,exact,4.167,False,False,0,3,exact,False,820067e01a6914e1,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y^2,1 + y + x + x*y^4,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,32ab9774449c3a3e,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y^2,1 + y + x*y + x*y^3,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,a102703caf863e9e,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y^2,1 + y + x*y + x*y^5,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,9cf0247a04d088ac,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y^2,1 + y + x*y^3 + x*y^4,8,evaluated,5,exact,4.167,False,False,0,3,exact,False,0d47b1447b58648e,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y^2,1 + y + x*y^5 + x^2*y^5,8,below_target_d,4,upper_bound,,,,,,,,ad001844eb1f0da0,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y^2,1 + y + x*y^3 + x^2*y,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,a8ca0884bf620dfd,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y^2,1 + y^2 + x + x*y^2,8,below_target_d,3,upper_bound,,,,,,,,ff93ea0939e337a6,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y^2,1 + y^2 + x + x*y^4,8,below_target_d,3,upper_bound,,,,,,,,c8aba1860f9d6840,k6_36.csv
+Z3xZ6,36,6,1 + y + x + x*y^2,1 + y + x^2 + x^2*y^4,8,evaluated,6,exact,6.0,False,False,0,3,exact,False,05215460d380b5ca,k6_36.csv
+Z6xZ6,72,6,1 + y,1 + x^3*y,4,below_target_d,4,upper_bound,,,,,,,,a22f1dca81c26757,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + x^3,4,below_target_d,2,upper_bound,,,,,,,,8b9983fce37ca1ab,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y + y^2 + x^3*y,6,below_target_d,4,upper_bound,,,,,,,,6f51381ea41f5737,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y + y^2 + x^3,6,below_target_d,4,upper_bound,,,,,,,,c2fddc7949573f6e,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y + y^3 + x^3,6,below_target_d,4,upper_bound,,,,,,,,14901243e349f5d2,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y + y^3 + x^3*y,6,below_target_d,4,upper_bound,,,,,,,,ecf3b1377ff96954,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y + x + x^4,6,below_target_d,4,upper_bound,,,,,,,,b5b50723b5745338,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y + x + x^4*y,6,evaluated,6,exact,3.0,False,False,0,3,exact,False,d8ae7324d1760a76,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y + y^3 + x^3*y^2,6,evaluated,6,exact,3.0,False,False,0,3,exact,False,d88ff5da2a89ab43,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y^2 + y^4 + x^3,6,below_target_d,4,upper_bound,,,,,,,,6116ed49bcda7ef1,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y + x + x^4*y^4,6,evaluated,6,exact,3.0,False,False,0,3,exact,False,5e449db738cb6dfb,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y^2 + x + x^4,6,evaluated,6,exact,3.0,False,False,0,3,exact,False,7ac22f4475dfd995,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y^2 + x + x^4*y,6,evaluated,6,exact,3.0,False,False,0,3,exact,False,d0fde78b24908bfd,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y^2 + x + x^4*y^2,6,evaluated,6,exact,3.0,False,False,0,3,exact,False,3cd443ca159c3fd2,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y^3 + x + x^4,6,below_target_d,4,upper_bound,,,,,,,,7e8d322c692413d3,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y^2 + x + x^4*y^3,6,evaluated,6,exact,3.0,False,False,0,3,exact,False,92ccefefef69300a,k6_66.csv
+Z6xZ6,72,6,1 + y^2,1 + y + x + x^3*y,6,below_target_d,3,upper_bound,,,,,,,,63c669913025622d,k6_66.csv
+Z6xZ6,72,6,1 + y^2,1 + y + x + x^3*y^5,6,below_target_d,3,upper_bound,,,,,,,,2b34960db1e5d8fc,k6_66.csv
+Z6xZ6,72,6,1 + y^2,1 + y + x + x^5*y,6,below_target_d,3,upper_bound,,,,,,,,9763a361f38b6006,k6_66.csv
+Z6xZ6,72,6,1 + y,1 + y^3 + x + x^4*y,6,evaluated,6,exact,3.0,False,False,0,3,exact,False,137983e13031db67,k6_66.csv
+Z6xZ6,72,6,1 + y^2,1 + y + x + x^5*y^3,6,below_target_d,3,upper_bound,,,,,,,,3a81499569dd1d04,k6_66.csv
+Z6xZ6,72,6,1 + y^2,1 + y^3 + x + x^3*y^3,6,below_target_d,3,upper_bound,,,,,,,,6772a8cd9c95e257,k6_66.csv
+Z6xZ6,72,6,1 + y^2,1 + y^3 + x + x^5*y,6,below_target_d,3,upper_bound,,,,,,,,381b126a5e622125,k6_66.csv
+Z6xZ6,72,6,1 + y^2,1 + y^3 + x + x^5*y^3,6,below_target_d,3,upper_bound,,,,,,,,305da9d5d5c94417,k6_66.csv
+Z6xZ6,72,6,1 + y^3,1 + y + y^2 + x^3,6,below_target_d,2,upper_bound,,,,,,,,3339cbee93168eab,k6_66.csv
+Z6xZ6,72,6,1 + y^3,1 + y + y^2 + x^3*y,6,below_target_d,2,upper_bound,,,,,,,,5a104beb24e91770,k6_66.csv
+Z6xZ6,72,6,1 + y^3,1 + y + y^3 + x,6,below_target_d,2,upper_bound,,,,,,,,e065fbe7b2c8ffd6,k6_66.csv
+Z6xZ6,72,6,1 + y^3,1 + y + y^3 + x^3,6,below_target_d,2,upper_bound,,,,,,,,41e5c6670e1ed600,k6_66.csv
+Z6xZ6,72,6,1 + y^3,1 + y + y^3 + x^3*y^2,6,below_target_d,2,upper_bound,,,,,,,,e866e91a1a00d602,k6_66.csv
+Z6xZ6,72,6,1 + y^3,1 + y + x + x^4,6,below_target_d,2,upper_bound,,,,,,,,450bdf31738afe16,k6_66.csv
+Z6xZ6,72,6,1 + y^3,1 + y + x^2 + x^3*y,6,below_target_d,2,upper_bound,,,,,,,,6567a1821cbfc59c,k6_66.csv
+Z6xZ6,72,6,1 + y^3,1 + y^2 + y^4 + x^3,6,below_target_d,2,upper_bound,,,,,,,,eadfbdba2303bab4,k6_66.csv
+Z6xZ6,72,6,1 + y^3,1 + y^2 + x + x^4,6,below_target_d,2,upper_bound,,,,,,,,beb0d9e710aab565,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + y + x + x^3*y,8,below_target_d,3,upper_bound,,,,,,,,5174cb9ae8e46613,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + y + x + x^3*y^5,8,below_target_d,3,upper_bound,,,,,,,,2af9f677ce035c68,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + y + x + x^5*y^3,8,below_target_d,3,upper_bound,,,,,,,,9f88fa7a5d367471,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + y + x + x^5*y,8,below_target_d,3,upper_bound,,,,,,,,30a0deb26463083f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + y^3 + x + x^3*y,8,below_target_d,3,upper_bound,,,,,,,,d01da9fd6bfa5cdf,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + y^3 + x + x^3*y^3,8,below_target_d,3,upper_bound,,,,,,,,64a312b941e59d48,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + y^3 + x + x^5*y,8,below_target_d,3,upper_bound,,,,,,,,4083a47645041845,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + y^3 + x + x^5*y^3,8,below_target_d,3,upper_bound,,,,,,,,abbd13afe391284c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + x + x^2*y + x^3*y,8,below_target_d,3,upper_bound,,,,,,,,9748a22babe8bef1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + x + x^2*y + x^3*y^3,8,below_target_d,3,upper_bound,,,,,,,,a4ee105c4089a251,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + x + x^2*y + x^3*y^5,8,below_target_d,3,upper_bound,,,,,,,,05f710aa7aadf016,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^3,1 + x + x^2*y^3 + x^3*y^3,8,below_target_d,3,upper_bound,,,,,,,,16815e640a7fe604,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y + y^2 + x^3*y,8,below_target_d,4,upper_bound,,,,,,,,c21002cef96952ff,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y + y^2 + x^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,dd38fb71e4c8eeed,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y + y^3 + x^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,165d6675a7c8e98e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y + y^3 + x^3*y,8,below_target_d,4,upper_bound,,,,,,,,a59e964fe455dfe2,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y + y^3 + x^3*y^2,8,below_target_d,4,upper_bound,,,,,,,,0bd05dd4a894c36b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y + x + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,aeb44ce8b6f44c1b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y + x + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,cf8e63d1c4934cd1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y^2 + y^4 + x^3,8,below_target_d,4,upper_bound,,,,,,,,94b476207f46753a,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y^2 + x + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,6461501aaa5097dd,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y + x + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,4b2e603b11b07ac2,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y^2 + x + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,524d62a403ad42d7,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y^2 + x + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,7fac6a998e9a3052,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y^3 + x + x^4,8,below_target_d,4,upper_bound,,,,,,,,a570bcce35143d7b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y^2 + x + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,33fd89ff09243523,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + y^4,1 + y^3 + x + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,106d1a1b6e717c19,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,a3c46f468d7aa125,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,464f6b07d81832f2,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,24a03484a48f40a3,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,cc2704222d899f84,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,5426fa68ec806137,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,62232de376a0df7e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x^3*y^5,8,evaluated,9,exact,6.75,False,False,0,4,exact,False,f2e402a03f71ce4d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x^5*y^3,8,evaluated,9,exact,6.75,False,False,0,4,exact,False,ab5c30cf26ab3ac4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x + x^5*y^5,8,evaluated,9,exact,6.75,False,False,0,4,exact,False,bc532dfb873d1b4b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x*y^2 + x*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,4860b217a7835a11,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x*y^2 + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,d69897fae9f0a80f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x*y^2 + x^3*y^5,8,evaluated,9,exact,6.75,False,False,0,4,exact,False,a8ed2acdc6dc8b16,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x*y^2 + x^5*y,8,evaluated,9,exact,6.75,False,False,0,4,exact,False,00d161e7538799be,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x^3 + x^3*y,8,below_target_d,2,upper_bound,,,,,,,,e46cbbedf4f934b7,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x*y^2 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,394fde6d92baa8c9,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x^3 + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,9a1e6c658b0a13a8,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x^3 + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,58102820b3a32eef,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,a5c8ef48e2128c30,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x^3 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,6fa6d9be56abdb09,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x^3 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,953e4d9c9466c431,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x^3*y^2 + x^5*y,8,below_target_d,4,upper_bound,,,,,,,,2efc31c2b1946966,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x^3*y^2 + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,37dac4c0492f1f35,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x^5 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,c4cb3555aaa6c47d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x^3*y^2 + x^5*y^5,8,evaluated,8,exact,5.333,False,False,0,4,exact,False,abafe6852a52cb1f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x + x*y^3,8,below_target_d,2,upper_bound,,,,,,,,ce5bcd1dda1a8c74,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y + x^5*y^2 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,175f2d3f58101c7b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,931a6f23cd6eeb9f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,f36c624fe3aa6d1c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,f9c67e9642a437cd,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,2fe943c2f91898ac,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x*y + x*y^4,8,below_target_d,2,upper_bound,,,,,,,,378494356c31a467,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x*y + x^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,22f5472b0f69534f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x*y + x^3*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,275417b6c99ee49a,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x*y + x^3*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,0f61e2ab99b5de93,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x*y + x^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,3ea05008f8ed95c1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x*y + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,2ff9a5c754dc7340,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x^3 + x^3*y^3,8,below_target_d,2,upper_bound,,,,,,,,6e047db8ded66b3e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x*y + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,be1634a1156485f4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,ab26a199cdab2d26,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x^3*y + x^3*y^4,8,below_target_d,2,upper_bound,,,,,,,,1b1162979b5e9567,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x^3 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,28b0700cd8fcdd73,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x^3*y + x^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,d65a07759d4f7502,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x^3*y + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,be88400ff2cb687c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + y^3 + x^3*y + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,bbcc83ccb8b56c40,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^2*y + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,c8d55cc27272c722,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^2*y + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,cf1dc36cda181fa3,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^2*y + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,e16b7ffe120bbfb7,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^2*y + x^3*y^5,8,evaluated,9,exact,6.75,False,False,0,4,exact,False,2b73a8348003fa10,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^2*y + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,6c79b9fd02854468,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^2*y^3 + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,f4cae00ee388a2cb,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^2*y + x^5*y^3,8,evaluated,9,exact,6.75,False,False,0,4,exact,False,35357f4674148232,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^3*y + x^4*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,40f836e9c5eb2059,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^2*y^3 + x^5*y,8,evaluated,9,exact,6.75,False,False,0,4,exact,False,894b855cdeb220a5,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^3*y + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,a82274c4c1039dc8,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^3*y + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,ba3601183df0f92e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^3*y^3 + x^4*y^3,8,below_target_d,2,upper_bound,,,,,,,,8cd1a01e50a5cd00,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^3*y^3 + x^4*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,3a66517c28bb99a2,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^4*y^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,4c78f3f11631536c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x*y + x^2*y^3 + x^3*y^2,8,evaluated,9,exact,6.75,False,False,0,4,exact,False,e506261416421762,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x + x^4*y + x^5*y^5,8,evaluated,9,exact,6.75,False,False,0,4,exact,False,64c3fd0e88f21f8d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x*y + x^2*y^3 + x^3*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,4f3295638ff6b315,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x*y + x^2*y^5 + x^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,043baf451041861e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x*y + x^3 + x^4*y,8,below_target_d,2,upper_bound,,,,,,,,f26ebab9c1723940,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x*y + x^2*y^3 + x^5*y^2,8,evaluated,9,exact,6.75,False,False,0,4,exact,False,84191dcc37838afb,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x*y + x^3 + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,fe7c83b22716b538,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x*y + x^3*y^2 + x^4*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,16b1c60dc8c08a61,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x*y + x^3*y^2 + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,a4ccf89f870801cd,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + y^2 + x^3*y,8,below_target_d,4,upper_bound,,,,,,,,50e15d5aef6604b8,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + y^2 + x^3*y^3,8,below_target_d,4,upper_bound,,,,,,,,79c4668a2a6c126d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^2*y,1 + x*y + x^3*y^4 + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,093fc2ec97151d0e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + y^2 + x^3*y^5,8,below_target_d,4,upper_bound,,,,,,,,59dba1130c384d1f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + y^3 + x^3,8,below_target_d,4,upper_bound,,,,,,,,325d6af2415edec4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + y^3 + x^3*y^2,8,below_target_d,4,upper_bound,,,,,,,,d0dbd89df289e46a,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + y^3 + x^3*y^4,8,below_target_d,4,upper_bound,,,,,,,,36510ef4eb7d84de,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + y^4 + x^3*y,8,below_target_d,4,upper_bound,,,,,,,,6120d08c2f380807,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + y^4 + x^3*y^3,8,below_target_d,4,upper_bound,,,,,,,,ec0d1dde5f4addcb,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + y^4 + x^3*y^5,8,below_target_d,4,upper_bound,,,,,,,,427c7fab956276dd,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,5c9c1403e2f18f65,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x + x*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,14e48fe06161c7f4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,6392c5e0607d196e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,36fb167d5348ddeb,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x*y + x*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,147a67879f7b0252,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x*y + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9b3d4506294fb4d1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x*y + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,d5271783cea91cee,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x*y + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,72fd308d60bbef05,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x^2 + x^2*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,fc010560ccc1690a,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x^3 + x^3*y^2,8,below_target_d,4,upper_bound,,,,,,,,27a708777edc981c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x^3 + x^3*y^4,8,below_target_d,4,upper_bound,,,,,,,,9ca7f4160eadbdfc,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x^2*y + x^2*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,17303bfb4820b8e6,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x^3*y + x^3*y^3,8,below_target_d,4,upper_bound,,,,,,,,a9b17b188f91d7c9,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y + x^3*y + x^3*y^5,8,below_target_d,4,upper_bound,,,,,,,,392ad65a67c2e0be,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^2 + x + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f3a5491ec1718bde,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^2 + x + x*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,8c3ab51d9dcd76ee,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^2 + x + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,bffa556447d39ff0,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^2 + x + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,68e69dbf48561803,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^2 + x*y + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,037fd850cd88a41c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^2 + x*y + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f1c1be26b24a513e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^2 + x*y + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,3f452026f4b9b031,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^2 + x^3 + x^3*y^3,8,below_target_d,4,upper_bound,,,,,,,,60b100251f654fa4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^2 + x^2 + x^2*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,38caa645d21ebe4c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^2 + x^3*y^2 + x^3*y^5,8,below_target_d,4,upper_bound,,,,,,,,b7d765abdbcc42a3,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^2 + x^3*y + x^3*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,3bc328e3de1d89f8,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^3 + x + x^4*y^3,8,below_target_d,4,upper_bound,,,,,,,,ab1e060239c461b6,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^3 + x + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,605e9bbb1cbb25c6,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + y^3 + x + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f48508a47d2ea42b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + x + x^3 + x^4*y,8,below_target_d,4,upper_bound,,,,,,,,9890bb8b9ac27b4c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + x + x^3 + x^4*y^3,8,below_target_d,4,upper_bound,,,,,,,,7d79701395fa7f50,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + x + x^3 + x^4*y^5,8,below_target_d,4,upper_bound,,,,,,,,3d9d6a2d5f16bbe6,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + x + x^3*y + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,ded17638757d1772,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + x + x^3*y + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,fffaf43604eed047,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + x + x^3*y^2 + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2d5be69e837c8da4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + x + x^3*y^2 + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,18224769d2e5c429,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + x + x^3*y^3 + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,d5724822c62190df,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y + y^2 + x^3*y^4,8,below_target_d,4,upper_bound,,,,,,,,0e2acccaad7ccc14,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y + y^3 + x^3*y,8,below_target_d,4,upper_bound,,,,,,,,a59e9fef61388e3e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3,1 + x + x^3*y^4 + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,6e907e79b88aa789,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y + y^3 + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,76c1aeaa652a668c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y + x + x*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a96d040f4da03700,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y + x + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,1a14f25d948baecc,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y + x + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9c27ddd62f9a53b6,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y + x^2 + x^2*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,87aeccf995d714f4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y + x + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,7fa13ff2966b97b7,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y^2 + x + x*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,04c558f41cb4039e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y^2 + x*y + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,cae7f3837cf24491,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y^3 + x + x^4,8,below_target_d,4,upper_bound,,,,,,,,c886a9fff75dd38f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + y^4,1 + y + x + x^3*y^5,8,below_target_d,2,upper_bound,,,,,,,,5ffcc72e1febec96,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + y^4,1 + y + x + x^5*y^3,8,below_target_d,2,upper_bound,,,,,,,,bdae4d78326584ea,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + y^4,1 + x + x^2*y + x^3*y^5,8,below_target_d,2,upper_bound,,,,,,,,7b47ec0af6fd2047,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + y^3 + x*y^3,8,below_target_d,4,upper_bound,,,,,,,,cf94bbfb47f576b1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^2 + x^3*y,1 + y^3 + x + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,bb9e0a76fd24de67,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + y^3 + x^3*y,8,below_target_d,4,upper_bound,,,,,,,,60dfb631191194f3,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + y^3 + x^4*y^3,8,below_target_d,4,upper_bound,,,,,,,,ede3af9a88b83a40,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + y^3 + x^2*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9f34db30dbe591b7,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + y^3 + x^5*y^5,8,below_target_d,4,upper_bound,,,,,,,,74c2a5dea7e9a18a,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + y^4 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,b9babedf398dd5dd,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + y^4 + x^2*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,16df23d9bfe59cf8,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x + x^2*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,b3c94a6f2e7ee9de,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x + x^3,8,below_target_d,4,upper_bound,,,,,,,,a0e4ccb1cc866684,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x + x*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,0f563fd7cca998ef,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,6aac43f04730cddc,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,cf3ae1bf9f69d210,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x*y^2 + x^3*y^4,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,d4b2ae5103c1a595,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x*y^3 + x^2*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,4f33747375046337,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x*y^2 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,add335eb803a9c1e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x*y^3 + x^4*y^5,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,a6e8652f6b3f8e5b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x*y^5 + x^2*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,05bc648d2dee46d1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x*y^5 + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,6c18e8be81523549,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y + x^2*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,eb47b0ce4a760328,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,aef48873ca0a6844,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y + x^3*y,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,5c2b2ac21174540b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y^2 + x^2*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,84e4d0f8e551512c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y + x^5*y^5,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,3c078a4d4f3f94e7,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y^2 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,769604b1fa5ceb44,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y^4 + x^3*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,561fcb1e6922fd90,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y^4 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,5b3e45d2b8093d59,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y^4 + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,16eb0e28e6f02f6c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y^5 + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,598d5be087cd695c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y^5 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,84e223a42b38790b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^3 + x^3*y^4,8,below_target_d,4,upper_bound,,,,,,,,db6f56646f26a56b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^2*y^5 + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,5ed650863827903b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^3 + x^5*y^2,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,08e0112fa4eca763,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^3*y^3 + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,01b022971e64d242,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^3*y + x^4*y^5,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,329c0a5a162928df,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^3*y^4 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f21e5df8913744cf,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^4 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,312241bafb075eac,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^4*y^2 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,38fc7a6d898cdfb3,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^4*y^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,925f559acdf5781b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^4*y^3 + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,48014d442588746e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^4*y^5 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,145775ddf6a467a5,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y + x^5*y^2 + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,1b39367f52e5e523,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x*y + x^2*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c0f7d56c3f9be02b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x*y + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2a65a893b42a5956,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x*y^2 + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a5403c49b71d7059,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x*y^2 + x^2*y^3,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,3fd7da779ae14adf,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x*y^4 + x^3*y^3,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,1e931ff6dc949e2c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x*y^4 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,0a1e84ea5d1dd4a7,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x*y^5 + x^3*y^2,8,below_target_d,4,upper_bound,,,,,,,,ef05dbec58c31b58,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x*y^5 + x^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9029ebcf98a8e2ec,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x*y^5 + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,6a402efbde1be1aa,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x*y^5 + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c2e55140fcc7a0a4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^2 + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9cb6fe1743daa579,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^2 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f2d1c9088ea168da,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^2 + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,be8b05f7baf45d94,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^2*y + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9226dbd5a2335b6e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^2*y^3 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,ae816e6721d1dc84,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^2*y^3 + x^3,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,a5dfae4167786a7f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^2*y^3 + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,7243cd24cd66b974,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^2*y^4 + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2cd665d74c152579,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^2*y^4 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2e021c2fe9d62c3c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^2*y^4 + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,59ec124f80af5a32,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^3*y^3 + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,5254852df39e10ae,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^3*y^2 + x^5*y,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,424e729600f9a7f1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^3*y^5 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c51ff44974ccc81c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^4*y^2 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,392453a0cd947a40,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^4*y^4 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,e92414b1086466e1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x + x^2*y^2,8,below_target_d,4,upper_bound,,,,,,,,8b308dd51b5dc1d4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x + x^3*y^4,8,below_target_d,4,upper_bound,,,,,,,,09d769c027b6030c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x + x^4,8,below_target_d,4,upper_bound,,,,,,,,d36c04ebfc6fd06e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^2 + x^4*y + x^5*y^4,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,9a5b10f75346c2f1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,781981a7e2e7ab7b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x*y + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,761adfb16056eeda,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x*y + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,0ed2f55040515b3a,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x*y^2 + x^4*y^2,8,below_target_d,4,upper_bound,,,,,,,,2cc6cde4c1839967,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x*y^2 + x^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,0daf843661138bd8,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x^2*y + x^3*y^3,8,below_target_d,4,upper_bound,,,,,,,,2c005c06d92840fd,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x^2*y + x^5*y,8,below_target_d,4,upper_bound,,,,,,,,b81b1dd6728cbf6b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x^2*y^2 + x^3*y^4,8,below_target_d,4,upper_bound,,,,,,,,0962ba216be7fd65,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x^2 + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,e113cec25c320123,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x^2*y^2 + x^5*y^2,8,below_target_d,4,upper_bound,,,,,,,,563ab0cb349ad66e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x^3 + x^4*y^2,8,below_target_d,4,upper_bound,,,,,,,,a654ec3224ca8bfc,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x^2*y^2 + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a744bd9e0be75614,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x^3*y + x^4*y^3,8,below_target_d,4,upper_bound,,,,,,,,ec5856f462c1727a,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x^3 + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,6674316d67aae749,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x^3*y + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,7e8f6a391c422827,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + y^3 + x^3*y^2 + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,7436ecf5ee492d99,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^2*y + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,53dba0c7f00289b9,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^2*y + x^3*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c98c62e0e82f26b6,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^2*y^2 + x^4*y^5,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,5a762e4536892c10,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^2*y^4 + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,d5ad72ab9c34992d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^2*y^4 + x^3*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,021361b9fd59a797,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^2*y^5 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,3333c98c77c40d3f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^2*y^4 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,061097875925e700,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^3 + x^4*y^3,8,below_target_d,4,upper_bound,,,,,,,,48c4a1372cade883,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^2*y^5 + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2a32dd20a835d34e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^3*y^3 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f824d72b1696beb9,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^3*y + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c2019dabbbac8ecc,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^3*y^4 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,393cf4becc4f6e5c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^3*y^4 + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,b818f1606be9def0,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^4*y^2 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9ac136b26e9bbc24,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^4*y^5 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,7ae3b4323c113ff4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x + x^4*y^3 + x^5*y^4,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,2e0c6fee6e0700ae,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y + x^2 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,fee5a8b7cc1778c2,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y + x^2*y^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9a555244f500a45f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y + x^2*y^4 + x^3*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,63b542a5d8f462c2,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y + x^2*y^4 + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,65c88b9a7f59a273,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y + x^3*y^3 + x^4*y,8,below_target_d,4,upper_bound,,,,,,,,b6888a615386e849,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y + x^3*y^2 + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,0c4fcbf2f55a5f7b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y + x^3*y^3 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a5964d47e28f4a03,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y + x^3*y^5 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,77def6d41b2498b6,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y + x^4*y^5 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,ad4f7898b4714490,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^2 + x^2*y^5 + x^3*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2e7b9f8fa1417dd4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^2 + x^3 + x^4*y^5,8,below_target_d,4,upper_bound,,,,,,,,3916d2fa6a3399ec,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^2 + x^2 + x^4*y,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,9ad0968ec83b02f1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^2 + x^3*y + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c54448b92b260642,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^2 + x^3*y^3 + x^4*y^2,8,below_target_d,4,upper_bound,,,,,,,,0cb9daae3227b143,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^2 + x^3*y^2 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,99e4797868fc7470,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^2 + x^3*y^4 + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,1459ac9e6175680b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^2 + x^4*y^3 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,3e9771fcd49cdcf4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^3 + x^2*y^2 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,73637c3ddde8fce3,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^3 + x^2*y^2 + x^3,8,evaluated,8,exact,5.333,False,False,0,3,exact,False,7549eaae73ae18ff,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^3 + x^3*y + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,edf59e59e861a453,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^3 + x^3*y + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,33fa1d8c95c2e5c1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^4 + x^2*y^3 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,56cba53ae5c000ea,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^3 + x^3*y^4 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c8d3353c34b94d27,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x,1 + x*y^4 + x^3*y^2 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,df0d5c0855a3b327,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x + x*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,3c202c064bc4750d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x + x*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,629fb00e91af1382,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x + x*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,3097b785b91f2022,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,9a5e9362626fec62,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,9dd93e21f37cc79a,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,8140bcad8975dc50,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,a86286aee4051340,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,eaabade19103f57d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,c4862a374583b496,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x*y + x*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,8f6dd4690c05f3a4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x*y + x^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,33e527b6d258975a,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x*y + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,117d3be112dec826,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x*y + x^3*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,ddcbb8179d758439,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x*y + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,aac977f63566fd34,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x*y^2 + x*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,48ea1fbcf1dfbbb6,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x*y^2 + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,518c2b80320b7676,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x*y^2 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,5287aa291dfaf306,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^3 + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,59c07fb767930ef2,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x*y^2 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,cb663224cf26d398,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^3 + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,f8a0544418b78d6f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,27e4ed2e456a1dfe,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^3 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,8f62f1b287a1a315,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^3*y + x^3*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,fbbac659695dedda,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^3*y^2 + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,680cf045cbb5225f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^3*y + x^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,f15c879ee0cdf0f7,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^3*y^2 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,a2365002b2a36667,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^3*y^2 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,fd3aad59d33f7d7c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^5 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,d32e68117ec3636f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^5*y + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,ee89723250174dc0,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y + x^5*y^2 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,ae7df45abaf8dad6,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y^3 + x + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,04c6f46d7f0e702c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y^3 + x + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,0f373a634cd3fea6,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y^3 + x*y + x^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,efaff5b5b17b0656,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y^3 + x*y^2 + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,b78d1bf135fc08ab,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y^3 + x*y^2 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,52b5c2b48a7b1c85,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + y^3 + x^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,3748925c81745136,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + x + x^2*y + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,321d63e758c02595,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + x + x^2*y + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,75c30957440b8373,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + x + x^2*y + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,b3d18115a3ac3d58,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + x + x^2*y^5 + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,535d09598f53a9ae,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + x + x^2*y^5 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,d54c9ac38beffdfe,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + x + x^3*y + x^4*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,90e18cb3fae6b241,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + x*y^2 + x^2*y + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,d9e31e5294c72c87,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + y^3 + x^3*y,8,below_target_d,4,upper_bound,,,,,,,,e508c6ff87b2bafc,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + y^4 + x^3,8,below_target_d,4,upper_bound,,,,,,,,63391ff32b7279a7,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2,1 + x + x^4*y + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,57781ccb0a546f84,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x + x^2*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,b9a80f20fc41a964,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x + x^2*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2e2effc75477c70b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,42bc9d1564f02a90,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x*y + x^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,52bf80f7ec607a75,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,fa04cb63f920affa,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x*y + x^2*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,1e7933c1487d897c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x*y + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,8bb1a91f87219601,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x^2 + x^3*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f98c5ad153e477eb,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x*y + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,8c169856659cb33f,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x^2*y + x^3,8,below_target_d,4,upper_bound,,,,,,,,4624ffa07c70339d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x^2 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,0b76edd90b3eeb49,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x^2*y^4 + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,3471af6a8d4f9336,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x^2*y^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,88973cbb37503d81,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x^3 + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,93f9ed4f84134165,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x^3*y + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,13ea7fa70c15280d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x^4*y + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,810552cf85929a3b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x^4*y^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,3e509474b3088327,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y + x^4*y^4 + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2b14ecb3f30262aa,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x + x^2*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,16fff5102ade72dd,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,d12a3cd65073be8d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x*y^2 + x^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,b205c57372bc2b1d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x + x^2*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f92f2b18518bf919,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x*y^2 + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,d1e5800fd4dbc1ba,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x^2 + x^3*y^2,8,below_target_d,4,upper_bound,,,,,,,,cfe23f2ae7783473,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x^2*y^2 + x^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,160f58cb1d361436,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x*y^2 + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,24cffc7ec120ca4a,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x^2*y^2 + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f69db4f7ce9508bb,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x^2*y^5 + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,95098ef50aecd984,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x^3 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,04d16ab09fc187b5,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x^3*y^2 + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,4314c24448f212ca,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x^4 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,b2cb783d0aade3ea,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^3 + x + x^4,8,below_target_d,4,upper_bound,,,,,,,,faf79b08c709f163,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^3 + x*y + x^4*y,8,below_target_d,4,upper_bound,,,,,,,,fe69be6622ca545d,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^3 + x^2 + x^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,5470d77e28fed158,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^3 + x^2*y^2 + x^5*y^2,8,below_target_d,4,upper_bound,,,,,,,,70a9983c7d93649c,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + y^3 + x^3*y,8,below_target_d,4,upper_bound,,,,,,,,a500779ae11b92f4,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + y^3 + x^3*y^3,8,below_target_d,4,upper_bound,,,,,,,,5c0f4f16322e1db3,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + y^4 + x^3,8,below_target_d,4,upper_bound,,,,,,,,4523e1d700aa7f25,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + y^4 + x^3*y^4,8,below_target_d,4,upper_bound,,,,,,,,75fb761d94ec820b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + x + x*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,fb1dfc0baa09c9fe,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^2*y,1 + y^2 + x^4*y^3 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,3406e0e37c157f02,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + x + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,49d855641c37bfd3,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + x + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c0bd077e234d54da,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + x*y + x*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,cee19a183a9244ef,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + x*y + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a268246caa6b9159,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + x*y + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,aa4a5f77f63ae0b8,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + x^2 + x^2*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,3c43008bb59dfa3b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y + x^2*y + x^2*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a31e5168d7f2b33b,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y^3 + x + x^4,8,below_target_d,4,upper_bound,,,,,,,,f87af36b10c70887,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3*y,1 + y + x^2 + x^3*y,8,below_target_d,4,upper_bound,,,,,,,,28b78b34844b3b3e,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3*y,1 + y + x^2*y + x^3,8,below_target_d,4,upper_bound,,,,,,,,bb2c0a2be9c87ce1,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3*y,1 + y^2 + x + x*y^3,8,below_target_d,4,upper_bound,,,,,,,,76ddf5114e7d12ad,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3*y,1 + y^3 + x + x^5*y^2,8,below_target_d,4,upper_bound,,,,,,,,c2ec8048646400c2,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3*y,1 + y^3 + x + x^5*y^4,8,below_target_d,4,upper_bound,,,,,,,,b82b297f632ec0d8,k6_66.csv
+Z6xZ6,72,6,1 + y + y^3 + x^3,1 + y^2 + x + x*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,e667601aa532688e,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y + x + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,cedb6c5a7d93067d,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y + x + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,e39a4d275dda7ac2,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y + x + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,bc4dd48ad8869d9a,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y + x*y^2 + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,710439cad456bdf3,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y + x*y^2 + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,7cbaa6d4d37ca5e6,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y + x*y^2 + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,fff8997a09e49530,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y + x*y^2 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,bc8350c4dbbe9cda,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y + x*y^2 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,a72984242483d3e9,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y + x*y^3 + x^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,b31d6db2773cc454,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y + x^2*y^2 + x^4*y^5,8,below_target_d,3,upper_bound,,,,,,,,6570792eea728f2d,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y + x*y^3 + x^3*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,326f1053a579623e,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y^2 + y^4 + x^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,7820dc2666db54ed,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y^2 + x*y + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,e407fc7eabec48ae,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y^2 + x*y^4 + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,df59b7dd4937d9e5,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y^2 + x^2*y^4 + x^4*y^4,8,below_target_d,3,upper_bound,,,,,,,,e9796a6c526705b8,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y^2 + x^2 + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,872b08082ba9e475,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y^3 + x*y + x^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,edf0cba88fcf4c66,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y^3 + x*y + x^3*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,b91b81bfe7769b33,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + y^3 + x*y + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,c3888a059b31fa6a,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + x*y + x^2*y^3 + x^3*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,a6c5110cee6917e9,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + x*y + x^2*y^4 + x^3*y^5,8,below_target_d,3,upper_bound,,,,,,,,eb3465fba9ae4f25,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + x*y + x^2*y^3 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,4ce56cdce690f31e,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + x*y + x^2*y^5 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,930b348017d91486,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y,1 + x*y^2 + x^2*y^5 + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,24304cce3415cec9,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x + x^2*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,58d18f6263e8c84f,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x + x^2*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,b906737c5c5c3f81,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x*y + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,4851ab0ff9cf0f9e,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,815fb9d73e513419,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x*y^3 + x^2*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f725339ed35432e8,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x*y + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,bec5ebb8ed7dc66c,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x*y^3 + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2f7a04af51e947d6,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x*y^3 + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,e74eb4225b027f00,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x*y^4 + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,dda4597e88988f11,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^2 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,e0bc98a3fa99e2fd,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x*y^4 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9089bfed9b840baa,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^2 + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,290dfd7300f0c4c5,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^2 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,d3911d4afd05d0bf,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^2*y + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,62b39766aa32193e,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^2*y^4 + x^3*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f31aed8facb5cbe5,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^2 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,8b968b8d5b1577e7,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^2*y^4 + x^3*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,eb6575af0010b508,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^2*y^4 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,002099cf816047b8,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^2*y^4 + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,1124bbc382cb93c7,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^3 + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,e6584e2d6fa79416,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^3*y + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,35703e8e9042b63e,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,3aa89c60c3b7ab70,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y + x^4 + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,5f8b40e7ccbef45a,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,248da26064bac374,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f0028bda5a1138c8,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,8f1878f46bb899d5,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x*y + x^2*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2dfc3c3c028fdc6d,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,3dee0428052af487,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x*y + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,4f6715e3345d658c,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x*y + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,b171a7855f91d3f6,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x*y + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,ead1714f6e004571,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x*y^4 + x^2*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,98f87ff466a4deef,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x*y^4 + x^2*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,dc0e19364a97d94b,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x*y^4 + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,fc45d4cc826df4d5,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x*y^4 + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,18d6ddf1baba1a07,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^2 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,6c8caa5e50444bbe,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^2 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a1709867f7baa155,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^2*y + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,64b41a27cd822eb4,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^2*y + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9632aabd57c78630,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^2*y + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9ec5db8f06316127,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^2*y + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,7b7aeb0fd79f2a75,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^2*y^2 + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,83d7bcd562ccc063,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^2*y^2 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,710878b42913777e,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^2*y^5 + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,e640dafea9641fe5,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^2*y^5 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a32f006e6ad48220,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^4*y^2 + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c596770a666cb8e9,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^4*y + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,8140e2c290739b4b,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + y^2 + x^4*y^2 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2969cf185665694a,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + x + x^2*y^2 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f14434c0443e3d5e,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + x + x^2*y^4 + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,2b1a5bc65ed2d65f,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + x + x^3*y^3 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,82a2a279c8d17592,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + x + x^3*y + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,42fc03edefafa31f,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + x + x^3*y^4 + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,faceedfc669d63b3,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + x*y^2 + x^2 + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,457d454985791ba5,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + x*y^2 + x^2*y^5 + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,48c3999994592eaf,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + x*y^2 + x^3*y^4 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,4abf810dd86cc562,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,007c0d20c8c0f891,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^2,1 + x*y^2 + x^3*y + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,ce51ca6541fe18bd,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,cc012ec58016706f,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,0be2e7530eb06e00,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x*y + x^3*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,6e57f6a10e45f69f,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x*y + x^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,097952ebf415c4bc,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x*y + x^3*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,18089a5694b758cf,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x*y + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,7a4b64cb069b8cb7,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x^2 + x^4*y,8,below_target_d,3,upper_bound,,,,,,,,56bd170cc7aa7224,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x^2*y + x^4,8,below_target_d,3,upper_bound,,,,,,,,e3ce571239957ce2,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x^2*y^2 + x^4*y^5,8,below_target_d,3,upper_bound,,,,,,,,3cbfdbaf11f581bc,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x*y + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,badfac36af29b094,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,4e1c1f6e93fb2fbb,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x^3 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,d858c26daa00a095,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x^3*y^2 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,9b92131971032c38,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y + x^3*y^2 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,866f9782f3206941,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^2 + y^4 + x^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,3bec969721572444,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^2 + y^4 + x^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,3e3bcdb08bf0cb17,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^2 + x + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,7d9c4eed00153aec,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^2 + x*y^2 + x^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,47c77159ea793ff3,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^2 + x^2 + x^4*y^2,8,below_target_d,3,upper_bound,,,,,,,,9118482355cf73c8,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^2 + x^2 + x^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,413f9973aa875a0f,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^2 + x^2*y^2 + x^4,8,below_target_d,3,upper_bound,,,,,,,,834f481b02eebd28,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^2 + x^2*y + x^4*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,4f81edaf824ccef1,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^2 + x^2*y^2 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,731e44bbb9a41c12,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^2 + x^2*y^2 + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,ec4ff51876abb03c,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^2 + x^2*y^3 + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,b19625ec64713da9,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x + x^3*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,6dd7e9338ff7ffb2,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,92d46b285ced2425,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,c126707802a19cde,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,4cdf03f5d2469389,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x*y + x^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,5101c9c257bf98be,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,74b6a1df0ed00613,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x*y + x^3*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,cf494e2439bec2c3,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x*y + x^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,1ed974b124446c98,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x*y + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,f9944b7a672fd6fd,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,167d198e73ac305b,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x^3 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,473cc749b6d89188,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + y^3 + x^3*y + x^5*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,761c521a934df195,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x + x^2*y + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,319a81ab9b78f9f7,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x + x^2*y + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,84cccbcd631d926d,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x + x^2*y^2 + x^3*y^2,8,below_target_d,3,upper_bound,,,,,,,,2aecf4278657927a,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x + x^2*y^3 + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,072e706799bf5c63,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x + x^2*y + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,da97ea7f0ada7bdf,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x + x^2*y^3 + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,4acacc64a50eb9fe,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x + x^2*y^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,ae1a64fa327bf424,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x + x^2*y^4 + x^3*y^4,8,below_target_d,3,upper_bound,,,,,,,,caa02e25e1fb6ced,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x + x^2*y^4 + x^5*y^2,8,below_target_d,3,upper_bound,,,,,,,,321492b624186199,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x + x^2*y^3 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,5971c67f9ce6b228,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x + x^4*y + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,5853c989d3e4c66e,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x + x^3*y^5,8,below_target_d,2,upper_bound,,,,,,,,3abb2251911b1a29,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x*y^3,1 + x*y + x^2*y^5 + x^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,fa8b5fded7ec2f58,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x*y + x^3*y^2,8,below_target_d,4,upper_bound,,,,,,,,1ec915af5ead8db1,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x*y + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,71adfac8d9c17f66,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,ed51f67a66631ab8,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x*y^2 + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,2bf3a112a7437211,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x*y^2 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,3cc2c166739ce482,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x*y + x^5*y^4,8,evaluated,10,exact,8.333,False,False,0,4,exact,False,d653dcf10dbcf421,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^2 + x^2*y,8,below_target_d,3,upper_bound,,,,,,,,b6b88524d42b91ed,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^2 + x^2*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,ce848b442f1ae201,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^2 + x^4*y,8,below_target_d,3,upper_bound,,,,,,,,62c594bf31f5bd36,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x*y^2 + x^5*y^3,8,evaluated,10,exact,8.333,False,False,0,4,exact,False,ae7aca8ff93d76c7,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^2*y + x^4,8,below_target_d,3,upper_bound,,,,,,,,cf490b5d338f1a12,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^2*y^2 + x^2*y^3,8,below_target_d,3,upper_bound,,,,,,,,c839e2b94ecdf56c,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^2*y^2 + x^4*y^5,8,below_target_d,3,upper_bound,,,,,,,,ff41c6fbb1f2d3b1,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^3 + x^3*y,8,below_target_d,2,upper_bound,,,,,,,,6a59dc11b521fb26,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^3 + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,33e7d14ea16d7d5a,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^3 + x^3*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,cc20161c4566dd6d,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^2*y + x^2*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,d76bc051d91e84bc,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^3*y^2 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,890dbd40e52f315d,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^3*y^2 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,0dda91e7ec32de97,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^2 + y^4 + x^2,8,below_target_d,5,upper_bound,,,,,,,,15be53d3318d2ee6,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y + x^3*y^5 + x^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,1b2171581b5dd14b,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^2 + x + x*y^2,8,below_target_d,3,upper_bound,,,,,,,,28ac58ab411e7f7e,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^2 + x + x*y^4,8,below_target_d,3,upper_bound,,,,,,,,567675d1e2e74c5f,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^2 + y^4 + x^4,8,evaluated,8,exact,5.333,False,False,0,4,exact,False,56f2451f27bbf413,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^2 + x + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,ab62c8b3b7406ad5,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^2 + x^2 + x^2*y^2,8,below_target_d,3,upper_bound,,,,,,,,b9be2fd9847a9a78,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^2 + x^2 + x^4,8,evaluated,8,exact,5.333,False,False,0,4,exact,False,57eb093a20a3cae8,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^2 + x^2 + x^4*y^2,8,below_target_d,3,upper_bound,,,,,,,,c73972e812882999,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^3 + x + x*y^3,8,below_target_d,2,upper_bound,,,,,,,,9bfec37c085f0b3b,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^2 + x*y^3 + x^5*y^5,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,419464245d98ef40,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^3 + x + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,fafbce14fa3d2a1d,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^3 + x*y + x*y^4,8,below_target_d,2,upper_bound,,,,,,,,af595b7154a9511c,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^3 + x + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,0b803f04fc30a710,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^3 + x^3 + x^3*y^3,8,below_target_d,2,upper_bound,,,,,,,,bfab95f2c92459c7,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^3 + x*y + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,50e107577c60e444,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^3*y^5,1 + y^3 + x^3 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,b77532b9e73827a8,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x + x^4*y^5,8,evaluated,10,exact,8.333,False,False,0,3,exact,False,dad2b3d6d2e44824,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x*y + x^4*y^2,8,evaluated,10,exact,8.333,False,False,0,3,exact,False,639d7ba29a00182b,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^2 + x^2*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9a23051f9aa0c496,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^2 + x^3*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c3dcdd7cf54100a8,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^2 + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a9d6b13e3061b7a5,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^2*y + x^2*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a28342066709d15c,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^2*y + x^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a85c955d74aca338,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x*y^2 + x^4*y,8,evaluated,10,exact,8.333,False,False,0,3,exact,False,1c081964619ad241,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^2*y + x^4*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,9527551d2b0071f9,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^2*y^3 + x^2*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,7d023e8697a7f803,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^2*y^4 + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,431712c73473a9b5,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^3*y + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,57140cc896050211,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^3 + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,16dbc2e3fb8546e2,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^4 + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,80e502ee1a64eaaf,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y + x^4*y + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c562aa07b63c67c0,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y^2 + x*y + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,aafcd6700bd1093d,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y,1 + y^3 + x*y + x^3,8,below_target_d,3,upper_bound,,,,,,,,0701a571639d9048,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y,1 + y^3 + x*y + x^5*y^2,8,below_target_d,3,upper_bound,,,,,,,,e4be8e936a7101d1,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y,1 + x*y + x^2*y^5 + x^3,8,below_target_d,3,upper_bound,,,,,,,,d3e4589bb3422700,k6_66.csv
+Z6xZ6,72,6,1 + y + x + x^4*y^4,1 + y^2 + x*y + x*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,d256e3eb9791ebe5,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y + x^2*y^2 + x^3*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a3207b1f8093624c,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y + x^2*y^3 + x^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f89ed202b862602c,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y + x^3 + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,7b75de720a0c738e,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y + x^3*y + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,a0e36fb94068defc,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y^2 + x + x^2*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,b0d627d55b1444f8,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y^2 + x*y + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,7990a713e7e7e633,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y^2 + x + x^4*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,4f1b963a9dd5ed2a,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y^2 + x*y^2 + x^4*y^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,52baf1979844e8db,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y^2 + x*y^2 + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c5ac060ffb3d6e84,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y^2 + x^2 + x^5*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f896a959284b90d2,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y^2 + x^2 + x^5*y^2,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,22061718e69520d7,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^2,1 + y^2 + x^2*y^3 + x^5,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,201a5b261d56fe4f,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^5,1 + y^3 + x + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,208ce121a84d6481,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^5,1 + y^3 + x + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,00ae106089eb1082,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^3*y,1 + y + x^2 + x^3*y^4,8,below_target_d,4,upper_bound,,,,,,,,f49c49e0baf60bd1,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^2*y^5,1 + x + x^2*y^3 + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,29e887608aa330c3,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^3*y,1 + y + x^2*y + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f912b84bdb41642c,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^3*y,1 + y + x^3*y^3 + x^4*y,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,f6bfb421a4e737ed,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y,1 + y^2 + y^4 + x^2,8,below_target_d,2,upper_bound,,,,,,,,f016ebb60bb8d35c,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y,1 + y^2 + x^2 + x^4,8,below_target_d,2,upper_bound,,,,,,,,06d9ff89beed2df6,k6_66.csv
+Z6xZ6,72,6,1 + y + x^2 + x^3*y,1 + y + x^3*y^4 + x^4,8,evaluated,6,exact,3.0,False,False,0,3,exact,False,c825e25ef4a79e84,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y^3,1 + y^2 + y^4 + x^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,62eef5b4471e35dc,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y^3,1 + y^2 + x^2 + x^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,b97bc2ea0fa3e520,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y^3,1 + y^2 + x^2 + x^4*y^2,8,below_target_d,3,upper_bound,,,,,,,,e704a3ba4c20601b,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y^3,1 + y^3 + x + x^3*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,57477564b6334593,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y^3,1 + y^3 + x + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,7dcb163b4132147b,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y^3,1 + y^2 + x^2 + x^4*y^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,f6f93f6db9ff3da4,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y^5,1 + y^2 + x^2 + x^4,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,1b470945c93ab6e6,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y^5,1 + y^2 + x^2 + x^4*y^2,8,below_target_d,3,upper_bound,,,,,,,,073d1fae3746d1d7,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y^5,1 + y^2 + y^4 + x^2,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,da1882dbe43c876e,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y^5,1 + y^3 + x + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,251e9534263edfab,k6_66.csv
+Z6xZ6,72,6,1 + y^2 + y^4 + x^2,1 + y^3 + x^3 + x^3*y^3,8,below_target_d,2,upper_bound,,,,,,,,0f83861b742a6773,k6_66.csv
+Z6xZ6,72,6,1 + y + x^3 + x^3*y^5,1 + x + x^2*y^3 + x^5*y^3,8,evaluated,6,exact,3.0,False,False,0,4,exact,False,4270e0b16cf8f848,k6_66.csv
+Z12xZ6,144,12,x^3 + y + y^2,y^3 + x + x^2,,evaluated,12,exact,12.0,,,,,,,,exact_survivors.csv

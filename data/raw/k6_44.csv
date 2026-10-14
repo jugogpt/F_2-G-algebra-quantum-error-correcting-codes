@@ -1,0 +1,28 @@
+L,f1,f2,n,k,check_weight,status,d,dX,dZ,d_ge,exact,merit,beats_gross,beats_two_gross,design_syms,group_order,group_status,clusters,full_clifford,seconds,module_key
+"(4, 4)",1 + y,1 + x + x^2 + x^3,32,6,6,rejected_distance,2,,,,True,,,,,,,,,0.7,e1f3e75567b10bdb
+"(4, 4)",1 + y,1 + x + x^2 + x^3*y,32,6,6,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,3+3,False,2.9,87c3e99bcbe05c4d
+"(4, 4)",1 + y,1 + x + x^2 + x^3*y^2,32,6,6,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.9,084950050b3a1ecc
+"(4, 4)",1 + y,1 + x + x^2*y^2 + x^3*y^2,32,6,6,rejected_distance,2,,,,True,,,,,,,,,0.6,3ed1a6653c79e1c2
+"(4, 4)",1 + y + y^2 + y^3,1 + y + y^2 + x,32,6,8,rejected_distance,2,,,,True,,,,,,,,,0.7,948459c61971a8e5
+"(4, 4)",1 + y + y^2 + y^3,1 + y + x + x^2,32,6,8,rejected_distance,2,,,,True,,,,,,,,,0.6,ed7b64370ad1584e
+"(4, 4)",1 + y,1 + x + x^2*y + x^3*y,32,6,6,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.6,7ece832cbdef08fe
+"(4, 4)",1 + y + y^2 + y^3,1 + y + x + x^2*y,32,6,8,rejected_distance,2,,,,True,,,,,,,,,0.7,beab03fc30741898
+"(4, 4)",1 + y + y^2 + y^3,1 + y^2 + x + x^2,32,6,8,rejected_distance,2,,,,True,,,,,,,,,0.7,952bf98d26fe7c4a
+"(4, 4)",1 + y + y^2 + y^3,1 + y^2 + x + x^2*y,32,6,8,rejected_distance,2,,,,True,,,,,,,,,0.5,a3d89a25e21f9b01
+"(4, 4)",1 + y + y^2 + x,1 + y + y^2 + x^2*y,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.8,4cf8b6fe61b023e7
+"(4, 4)",1 + y + y^2 + x,1 + y + x + x*y^3,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.8,309c7e3820fe1286
+"(4, 4)",1 + y + y^2 + x,1 + y + x + x^3*y,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.8,80044f137e4d7f43
+"(4, 4)",1 + y + y^2 + x,1 + y + x*y + x^2*y^3,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,3.0,9110017335256cc8
+"(4, 4)",1 + y + y^2 + x,1 + y + x^2 + x^2*y,32,6,8,rejected_distance,2,,,,True,,,,,,,,,0.7,627687e070e85c46
+"(4, 4)",1 + y + y^2 + x,1 + y^2 + x + x*y^2,32,6,8,rejected_distance,2,,,,True,,,,,,,,,0.5,d11adb3992ca740e
+"(4, 4)",1 + y + y^2 + x,1 + y + x^2*y^2 + x^3,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.8,d1cbcf1d20cc82a6
+"(4, 4)",1 + y + y^2 + x,1 + y^2 + x + x^3,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.6,c109886ade13276d
+"(4, 4)",1 + y + y^2 + x,1 + y^2 + x*y + x^2,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.9,e2518fabe190b55a
+"(4, 4)",1 + y + y^2 + x,1 + y^2 + x^2 + x^3*y^3,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.8,ca523877d8cce921
+"(4, 4)",1 + y + y^2 + x,1 + x + x^2*y^3 + x^3*y,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.6,8964b5d7bf29b68d
+"(4, 4)",1 + y + y^2 + x^2,1 + y + x + x*y,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.6,47c53723297b2061
+"(4, 4)",1 + y + y^2 + x^2,1 + x + x^2*y^2 + x^3*y^2,32,6,8,rejected_distance,2,,,,True,,,,,,,,,0.5,eda6e90a4c3a61f3
+"(4, 4)",1 + y + y^2 + x^2,1 + x + x^2 + x^3*y^2,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.6,cb6b699a9d455117
+"(4, 4)",1 + y + y^2 + x^2*y,1 + y + x + x^2*y^2,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.6,395f1a1360d3bb6a
+"(4, 4)",1 + y + x + x*y^2,1 + x + x^2*y^2 + x^3*y^2,32,6,8,rejected_distance,2,,,,True,,,,,,,,,0.5,438337d11d15172b
+"(4, 4)",1 + y + x + x*y,1 + y + x*y^2 + x^2*y,32,6,8,evaluated,4,4,4,,True,3.0,False,False,0,4,exact,6,False,2.7,d1a1a215def49e95

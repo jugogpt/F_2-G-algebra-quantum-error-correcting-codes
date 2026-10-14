@@ -1,0 +1,15 @@
+L,f1,f2,n,k,check_weight,status,d,dX,dZ,d_ge,exact,merit,beats_gross,beats_two_gross,design_syms,group_order,group_status,clusters,full_clifford,seconds,module_key
+"(10, 6)",1 + y + y^2,y + x^2 + x^8,120,16,6,rejected_distance,6,,,,True,,,,,,,,,3.0,ae950a4240c933c3
+"(10, 6)",1 + y + y^2,y^2 + x^2 + x^8,120,16,6,rejected_distance,8,,,,True,,,,,,,,,4.1,c1b6c90d6b1fda88
+"(10, 6)",1 + y^2 + y^4,y + x + x^4,120,16,6,rejected_distance,2,,,,True,,,,,,,,,2.8,fee1901ef77d8f0f
+"(10, 6)",1 + y^2 + y^4,y + x + x^9,120,16,6,rejected_distance,2,,,,True,,,,,,,,,2.8,2429c92ee669bc95
+"(10, 6)",1 + y^2 + y^4,y^2 + x + x^4,120,16,6,rejected_distance,2,,,,True,,,,,,,,,2.6,a625f56a70739267
+"(10, 6)",y + y^2 + x^5,y^2 + x^2 + x^8,120,16,6,rejected_distance,8,,,,True,,,,,,,,,4.0,7f3f0e7091f8a9e4
+"(10, 6)",y^2 + y^4 + x^5,y^2 + x + x^4,120,16,6,rejected_distance,4,,,,True,,,,,,,,,2.9,23b7e870fc03a844
+"(10, 6)",1 + y + y^2,y + x + x^4,120,8,6,rejected_distance,12,,,,True,,,,,,,,,21.9,1911c9df9f4bcb5f
+"(10, 6)",1 + y + y^2,y + x + x^9,120,8,6,rejected_distance,12,,,,True,,,,,,,,,21.8,4e48a03536823fc3
+"(10, 6)",1 + y + y^2,y^2 + x + x^4,120,8,6,rejected_distance,12,,,,True,,,,,,,,,22.2,8f5f90d26ddd57b0
+"(10, 6)",y + y^2 + x^5,y + x + x^4,120,8,6,rejected_distance,10,,,,True,,,,,,,,,9.5,74f64db7465d3af2
+"(10, 6)",y + y^2 + x^5,y + x + x^9,120,8,6,rejected_distance,10,,,,True,,,,,,,,,12.3,a05bc71b0e0a01e9
+"(10, 6)",y + y^2 + x^5,y^2 + x + x^4,120,8,6,rejected_distance,6,,,,True,,,,,,,,,3.9,cab187668ee2919e
+"(10, 6)",y^2 + y^4 + x^5,y + x + x^4,120,8,6,rejected_distance,12,,,,True,,,,,,,,,22.1,e6e03b4e06de7988

@@ -1,0 +1,80 @@
+L,f1,f2,n,k,check_weight,status,d,dX,dZ,d_ge,exact,merit,beats_gross,beats_two_gross,design_syms,group_order,group_status,clusters,full_clifford,seconds,module_key
+"(3, 6)",1 + y,1 + y,36,6,4,rejected_distance,2,,,,True,,,,,,,,,0.4,aaa89467656356f8
+"(3, 6)",1 + y,1 + y^2,36,6,4,rejected_distance,3,,,,True,,,,,,,,,0.5,54860b4da0f6b0cb
+"(3, 6)",1 + y,1 + y^3,36,6,4,rejected_distance,2,,,,True,,,,,,,,,0.3,3434275865d162b0
+"(3, 6)",1 + y^2,1 + y^3,36,6,4,rejected_distance,2,,,,True,,,,,,,,,0.3,79d4101c37658ee8
+"(3, 6)",1 + y,1 + y + y^2 + y^3,36,6,6,rejected_distance,3,,,,True,,,,,,,,,0.3,1357cf4f625f4d5c
+"(3, 6)",1 + y,1 + y + y^2 + y^4,36,6,6,rejected_distance,4,,,,True,,,,,,,,,0.3,67c0095110c01eb2
+"(3, 6)",1 + y,1 + y + y^3 + y^4,36,6,6,rejected_distance,3,,,,True,,,,,,,,,0.3,2c2418a9cad7315d
+"(3, 6)",1 + y,1 + y + x + x*y,36,6,6,rejected_distance,3,,,,True,,,,,,,,,0.3,e9361da425e2c838
+"(3, 6)",1 + y,1 + y + x + x*y^2,36,6,6,rejected_distance,4,,,,True,,,,,,,,,0.3,bd9db3c52f568b6e
+"(3, 6)",1 + y,1 + y + x + x*y^3,36,6,6,rejected_distance,4,,,,True,,,,,,,,,0.4,ea8f79eeb0cd978a
+"(3, 6)",1 + y,1 + y + x + x*y^5,36,6,6,rejected_distance,3,,,,True,,,,,,,,,0.4,5043e9584a08a205
+"(3, 6)",1 + y,1 + y^2 + x + x*y^2,36,6,6,rejected_distance,3,,,,True,,,,,,,,,0.3,d5f594d2eb0615bb
+"(3, 6)",1 + y,1 + y^2 + x + x*y^3,36,6,6,rejected_distance,4,,,,True,,,,,,,,,0.3,1fc2032eeda5f23d
+"(3, 6)",1 + y,1 + y^2 + x*y + x*y^3,36,6,6,rejected_distance,3,,,,True,,,,,,,,,0.4,d2e369bcea44248b
+"(3, 6)",1 + y,1 + y^3 + x + x*y^3,36,6,6,rejected_distance,2,,,,True,,,,,,,,,0.3,545d3e27e6616dbd
+"(3, 6)",1 + y^2,1 + y + y^2 + y^4,36,6,6,rejected_distance,4,,,,True,,,,,,,,,0.3,a2e3faa5e8227a80
+"(3, 6)",1 + y^2,1 + y + x + x*y^2,36,6,6,rejected_distance,3,,,,True,,,,,,,,,0.3,ff62969ec06591f5
+"(3, 6)",1 + y^2,1 + y^2 + x + x*y^3,36,6,6,rejected_distance,4,,,,True,,,,,,,,,0.3,ffa15404ffb157f2
+"(3, 6)",1 + y^3,1 + y + y^2 + y^3,36,6,6,rejected_distance,2,,,,True,,,,,,,,,0.2,927d4c2b021f4a47
+"(3, 6)",1 + y^3,1 + y + y^2 + y^4,36,6,6,rejected_distance,2,,,,True,,,,,,,,,0.3,4036910f6538b691
+"(3, 6)",1 + y^3,1 + y + y^3 + x,36,6,6,rejected_distance,2,,,,True,,,,,,,,,0.2,aacba4fa1da70b8e
+"(3, 6)",1 + y^3,1 + y + y^3 + x*y,36,6,6,rejected_distance,2,,,,True,,,,,,,,,0.3,6f16cc73c1988fba
+"(3, 6)",1 + y + y^2 + y^3,1 + y + y^2 + y^4,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,6b46e782f1d9d2b8
+"(3, 6)",1 + y + y^2 + y^3,1 + y + x + x*y^2,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.4,8b5ac6acdbfe54b0
+"(3, 6)",1 + y + y^2 + y^3,1 + y^2 + x + x*y^3,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.3,3d81a5a577b3f41c
+"(3, 6)",1 + y + y^2 + y^4,1 + y + y^3 + y^4,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,f8783ea7bc476e46
+"(3, 6)",1 + y + y^2 + y^4,1 + y + x + x*y,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,a8c71368ba5f65b3
+"(3, 6)",1 + y + y^2 + y^4,1 + y + x + x*y^3,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.3,320ed11bb197594c
+"(3, 6)",1 + y + y^2 + y^4,1 + y + x + x*y^5,36,6,8,evaluated,5,5,5,,True,4.167,False,False,0,3,exact,1+1+2+2,False,3.4,015b41440872ff43
+"(3, 6)",1 + y + y^2 + y^4,1 + y^2 + x + x*y^2,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,48727670745fb96b
+"(3, 6)",1 + y + y^2 + y^4,1 + y^2 + x + x*y^3,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.4,4a9f6ffd728360cc
+"(3, 6)",1 + y + y^2 + y^4,1 + y + x + x*y^2,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,4.7,817e83b5445bc40e
+"(3, 6)",1 + y + y^2 + y^4,1 + y^2 + x*y + x*y^3,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,5984ee366e84ef25
+"(3, 6)",1 + y + y^2 + y^4,1 + y^3 + x + x*y^3,36,6,8,rejected_distance,2,,,,True,,,,,,,,,0.3,805d268b7897aa77
+"(3, 6)",1 + y + y^3 + y^4,1 + y + y^3 + x*y,36,6,8,rejected_distance,2,,,,True,,,,,,,,,0.3,2821c801cdce29b8
+"(3, 6)",1 + y + y^3 + y^4,1 + y^2 + x + x*y^3,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,7e0b4144cd79b6f2
+"(3, 6)",1 + y + y^3 + y^4,1 + y^3 + x + x^2*y^2,36,6,8,rejected_distance,2,,,,True,,,,,,,,,0.3,b9ac29885b9f6ecd
+"(3, 6)",1 + y + y^3 + x,1 + y + y^3 + x*y^3,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.3,0eb5a160a9b18d61
+"(3, 6)",1 + y + y^3 + x,1 + y + y^3 + x^2*y^5,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.3,a33f2612d4e048c6
+"(3, 6)",1 + y + y^3 + x,1 + y + y^4 + x*y^2,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.3,792bf2ca21b1d575
+"(3, 6)",1 + y + y^3 + x,1 + y + y^4 + x^2*y^4,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.4,1f8a2431e761d51a
+"(3, 6)",1 + y + y^3 + x,1 + y + x + x*y^2,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,4.9,66e42b975f8f8553
+"(3, 6)",1 + y + y^3 + x,1 + y + x + x^2*y^4,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,4.9,d3a40ac247266184
+"(3, 6)",1 + y + y^3 + x,1 + y + x*y^3 + x*y^5,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.4,76e114aaf5d4f574
+"(3, 6)",1 + y + y^3 + x,1 + y + x*y^2 + x^2*y^2,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,5.9,67d7088120184629
+"(3, 6)",1 + y + y^3 + x,1 + y + x^2*y + x^2*y^5,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.3,45ce84d6ff3353b9
+"(3, 6)",1 + y + y^3 + x*y,1 + y + y^3 + x*y,36,6,8,rejected_distance,2,,,,True,,,,,,,,,0.3,c4623a517ff63c84
+"(3, 6)",1 + y + y^3 + x*y,1 + y + y^3 + x^2*y,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.3,3614474d0b3d745e
+"(3, 6)",1 + y + y^3 + x,1 + y + x*y^5 + x^2*y^5,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,6.6,7b1c966bfbbd9b9a
+"(3, 6)",1 + y + y^3 + x*y,1 + y + y^4 + x,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.5,7f64ea59783754a0
+"(3, 6)",1 + y + y^3 + x*y,1 + y + x + x*y,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,22032730d7e13ead
+"(3, 6)",1 + y + y^3 + x*y,1 + y + y^4 + x^2,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.5,488cd3eced541cb0
+"(3, 6)",1 + y + y^3 + x*y,1 + y + x + x^2*y,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,b3508053c17ecd14
+"(3, 6)",1 + y + y^3 + x*y,1 + y + x + x*y^4,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.4,1813c82aaf758e3d
+"(3, 6)",1 + y + y^3 + x*y,1 + y + x + x^2*y^4,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,3.4,0e900272b1a21336
+"(3, 6)",1 + y + y^3 + x*y,1 + y + x*y + x*y^3,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,3.8,2241c3fd0c5b9b8c
+"(3, 6)",1 + y + y^3 + x*y,1 + y + x*y^3 + x*y^4,36,6,8,evaluated,5,5,5,,True,4.167,False,False,0,3,exact,1+1+2+2,False,3.2,caacdcdb77f5afdb
+"(3, 6)",1 + y + y^3 + x*y,1 + y + x*y^3 + x^2*y^4,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,50460deb28c548e7
+"(3, 6)",1 + y + y^3 + x*y,1 + y + x*y^4 + x^2,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.3,ad2d7398122cc7b5
+"(3, 6)",1 + y + y^3 + x*y,1 + y + x*y^4 + x^2*y^3,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,d453ec40da65e6c7
+"(3, 6)",1 + y + y^3 + x*y,1 + y + x*y^3 + x^2*y,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,4.4,20ac1b2a17dc4216
+"(3, 6)",1 + y + y^3 + x*y,1 + y^2 + x + x*y^2,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,8f09493b16ed6213
+"(3, 6)",1 + y + y^3 + x*y,1 + y^2 + x*y^2 + x^2,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,67c8e8e48817bc1d
+"(3, 6)",1 + y + y^3 + x*y,1 + y + x^2*y + x^2*y^3,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,5.5,804fe12662385e21
+"(3, 6)",1 + y + x + x*y,1 + y + x + x*y^2,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.4,b4873116644be51f
+"(3, 6)",1 + y + y^3 + x*y,1 + y^2 + x*y^5 + x^2*y^3,36,6,8,evaluated,5,5,5,,True,4.167,False,False,0,3,exact,1+1+2+2,False,4.7,da9f3abe68b49896
+"(3, 6)",1 + y + x + x*y,1 + y + x + x^2*y^4,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,bf11d1709ab286fd
+"(3, 6)",1 + y + x + x*y,1 + y + x*y^2 + x*y^4,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,1284cfc087aa5ee0
+"(3, 6)",1 + y + x + x*y,1 + y^2 + x + x^2*y^5,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.4,b13d804bd2d168da
+"(3, 6)",1 + y + x + x*y^2,1 + y + x*y + x*y^2,36,6,8,evaluated,5,5,5,,True,4.167,False,False,0,3,exact,1+1+2+2,False,3.3,820067e01a6914e1
+"(3, 6)",1 + y + x + x*y^2,1 + y + x + x*y^4,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,4.0,32ab9774449c3a3e
+"(3, 6)",1 + y + x + x*y^2,1 + y + x*y + x*y^3,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,3.8,a102703caf863e9e
+"(3, 6)",1 + y + x + x*y^2,1 + y + x*y + x*y^5,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,4.7,9cf0247a04d088ac
+"(3, 6)",1 + y + x + x*y^2,1 + y + x*y^3 + x*y^4,36,6,8,evaluated,5,5,5,,True,4.167,False,False,0,3,exact,1+1+2+2,False,3.2,0d47b1447b58648e
+"(3, 6)",1 + y + x + x*y^2,1 + y + x*y^5 + x^2*y^5,36,6,8,rejected_distance,4,,,,True,,,,,,,,,0.7,ad001844eb1f0da0
+"(3, 6)",1 + y + x + x*y^2,1 + y + x*y^3 + x^2*y,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,3.6,a8ca0884bf620dfd
+"(3, 6)",1 + y + x + x*y^2,1 + y^2 + x + x*y^2,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,ff93ea0939e337a6
+"(3, 6)",1 + y + x + x*y^2,1 + y^2 + x + x*y^4,36,6,8,rejected_distance,3,,,,True,,,,,,,,,0.3,c8aba1860f9d6840
+"(3, 6)",1 + y + x + x*y^2,1 + y + x^2 + x^2*y^4,36,6,8,evaluated,6,6,6,,True,6.0,False,False,0,3,exact,1+1+2+2,False,4.7,05215460d380b5ca
