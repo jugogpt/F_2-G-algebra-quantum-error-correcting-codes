@@ -1,5 +1,5 @@
 """
-Exact distribution of the code dimension k over ALL codes of a solution space that
+Distribution of the code dimension k over ALL codes of a solution space that
 splits over component orbits.  k = 2 sum_c dim_F2(J_c / I_c) is additive over components
 and the solution space is a direct sum of orbit blocks, so the generating function of k
 over the whole space is the product (convolution) of the blocks' generating functions.
