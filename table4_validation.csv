@@ -1,6 +1,0 @@
-l,n,k,d_paper,d_ours,d_exact,gates_paper,n_semilinear_syms,order_semilinear,n_foldS,order_with_foldS,full_with_foldS,seconds
-9,18,2,5,5,True,10,525,120,10,720,True,51.9
-11,22,2,6,6,True,10,605,120,12,720,True,80.5
-15,30,2,7,7,True,9,26,12,18,36,False,17.0
-25,50,2,9,9,True,9,370,36,26,36,False,243.6
-27,54,2,10,10,True,10,1575,120,28,720,True,1135.2

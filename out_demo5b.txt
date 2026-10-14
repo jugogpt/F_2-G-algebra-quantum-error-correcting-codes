@@ -1,2 +1,0 @@
-  solution space dim 42  (2^42 of 2^144 pairs);  orbit blocks [[0], [1], [2], [3, 4]] of dims [6, 8, 12, 16]
-  exact k-distribution of all codes: k=0: 618,475,290,624   smallest k>0: 4 (309,237,645,312 codes)   (17s)

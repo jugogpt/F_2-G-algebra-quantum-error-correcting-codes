@@ -1,7 +1,0 @@
-  targets iota_x            : solution space dim 9  -> 2^18 pairs (f1,f2)
-  targets iota_x and iota_y : solution space dim 6  -> 2^12 pairs (f1,f2)
-  construct_code returned 306 verified codes with k>0; k-values: {4: 210, 8: 24, 12: 66, 16: 6}
-  sparsest code with the smallest k:
-    f1 = x + x^3 
-    f2 = 1 + y 
-    k  = 4

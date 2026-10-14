@@ -1,4 +1,0 @@
-n = 144  k = 12  components: [8, 16, 16, 16, 16]
-|Aut(G)| = 384    survive Prop 4.13 ideal-pair filter: 32
-scalar-twist symmetries found: 1   (4s)
-   psi = [1,0,0; 0,1,0; 0,0,1]
